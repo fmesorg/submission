@@ -1,0 +1,2 @@
+[10-Jan-2014 16:04:17] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/ijmein/public_html/captcha/diy.php on line 82
+[10-Jan-2014 16:04:30] PHP Warning:  imagettfbbox() [<a href='function.imagettfbbox'>function.imagettfbbox</a>]: Could not find/open font in /home/ijmein/public_html/captcha/diy.php on line 82

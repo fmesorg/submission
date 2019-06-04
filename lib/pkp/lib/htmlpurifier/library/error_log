@@ -1,0 +1,6 @@
+[07-Oct-2013 19:40:30] PHP Fatal error:  Class 'HTMLPurifier_Bootstrap' not found in /home/ijmein/public_html/lib/pkp/lib/htmlpurifier/library/HTMLPurifier.autoload.php on line 11
+[07-Oct-2013 19:45:19] PHP Fatal error:  Class 'HTMLPurifier_Bootstrap' not found in /home/ijmein/public_html/lib/pkp/lib/htmlpurifier/library/HTMLPurifier.autoload.php on line 11
+[07-Oct-2013 19:45:19] PHP Fatal error:  Class 'HTMLPurifier_Bootstrap' not found in /home/ijmein/public_html/lib/pkp/lib/htmlpurifier/library/HTMLPurifier.autoload.php on line 11
+[21-Oct-2013 20:03:59] PHP Fatal error:  Class 'HTMLPurifier_Bootstrap' not found in /home/ijmein/public_html/lib/pkp/lib/htmlpurifier/library/HTMLPurifier.autoload.php on line 11
+[21-Oct-2013 20:10:05] PHP Fatal error:  Class 'HTMLPurifier_Bootstrap' not found in /home/ijmein/public_html/lib/pkp/lib/htmlpurifier/library/HTMLPurifier.autoload.php on line 11
+[21-Oct-2013 20:10:08] PHP Fatal error:  Class 'HTMLPurifier_Bootstrap' not found in /home/ijmein/public_html/lib/pkp/lib/htmlpurifier/library/HTMLPurifier.autoload.php on line 11

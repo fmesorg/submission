@@ -1,0 +1,4 @@
+[07-Oct-2013 19:40:50] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/plugins/citationParser/freecite/PKPFreeciteCitationParserPlugin.inc.php on line 20
+[07-Oct-2013 19:45:31] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/plugins/citationParser/freecite/PKPFreeciteCitationParserPlugin.inc.php on line 20
+[07-Oct-2013 19:45:31] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/plugins/citationParser/freecite/PKPFreeciteCitationParserPlugin.inc.php on line 20
+[21-Oct-2013 20:04:34] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/plugins/citationParser/freecite/PKPFreeciteCitationParserPlugin.inc.php on line 20

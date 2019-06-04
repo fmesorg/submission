@@ -1,0 +1,114 @@
+[07-Oct-2013 19:43:58] PHP Fatal error:  Class 'FormValidator' not found in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorReCaptcha.inc.php on line 15
+[07-Oct-2013 19:43:58] PHP Fatal error:  Class 'FormValidator' not found in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorLocale.inc.php on line 15
+[07-Oct-2013 19:43:59] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorArrayCustom.inc.php on line 15
+[07-Oct-2013 19:43:59] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorInSet.inc.php on line 15
+[07-Oct-2013 19:43:59] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorCustom.inc.php on line 15
+[07-Oct-2013 19:43:59] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorPost.inc.php on line 15
+[07-Oct-2013 19:43:59] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorAlphaNum.inc.php on line 16
+[07-Oct-2013 19:43:59] PHP Fatal error:  Class 'FormValidator' not found in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorCaptcha.inc.php on line 15
+[07-Oct-2013 19:43:59] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorEmail.inc.php on line 16
+[07-Oct-2013 19:43:59] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorUrl.inc.php on line 16
+[07-Oct-2013 19:43:59] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorRegExp.inc.php on line 15
+[07-Oct-2013 19:43:59] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorISSN.inc.php on line 15
+[07-Oct-2013 19:43:59] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorUri.inc.php on line 17
+[07-Oct-2013 19:43:59] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorListbuilder.inc.php on line 16
+[07-Oct-2013 19:44:00] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorBoolean.inc.php on line 17
+[07-Oct-2013 19:44:01] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorControlledVocab.inc.php on line 15
+[07-Oct-2013 19:44:01] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorArray.inc.php on line 15
+[07-Oct-2013 19:44:01] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorLength.inc.php on line 15
+[07-Oct-2013 19:44:01] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorLocaleEmail.inc.php on line 16
+[07-Oct-2013 19:44:01] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorLocaleUrl.inc.php on line 16
+[07-Oct-2013 19:50:06] PHP Fatal error:  Class 'FormValidator' not found in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorReCaptcha.inc.php on line 15
+[07-Oct-2013 19:50:06] PHP Fatal error:  Class 'FormValidator' not found in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorReCaptcha.inc.php on line 15
+[07-Oct-2013 19:50:13] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorArrayCustom.inc.php on line 15
+[07-Oct-2013 19:50:13] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorArrayCustom.inc.php on line 15
+[07-Oct-2013 19:50:13] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorCustom.inc.php on line 15
+[07-Oct-2013 19:50:13] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorCustom.inc.php on line 15
+[07-Oct-2013 19:50:25] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorLocaleUrl.inc.php on line 16
+[07-Oct-2013 19:50:25] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorLocaleUrl.inc.php on line 16
+[07-Oct-2013 19:50:30] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorLength.inc.php on line 15
+[07-Oct-2013 19:50:30] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorLength.inc.php on line 15
+[07-Oct-2013 19:50:31] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorLocaleEmail.inc.php on line 16
+[07-Oct-2013 19:50:31] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorLocaleEmail.inc.php on line 16
+[07-Oct-2013 19:50:31] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorArray.inc.php on line 15
+[07-Oct-2013 19:50:31] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorArray.inc.php on line 15
+[07-Oct-2013 19:50:38] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorBoolean.inc.php on line 17
+[07-Oct-2013 19:50:38] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorBoolean.inc.php on line 17
+[07-Oct-2013 19:50:38] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorControlledVocab.inc.php on line 15
+[07-Oct-2013 19:50:38] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorControlledVocab.inc.php on line 15
+[07-Oct-2013 19:50:42] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorListbuilder.inc.php on line 16
+[07-Oct-2013 19:50:42] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorListbuilder.inc.php on line 16
+[07-Oct-2013 19:50:45] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorISSN.inc.php on line 15
+[07-Oct-2013 19:50:45] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorISSN.inc.php on line 15
+[07-Oct-2013 19:50:49] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorUrl.inc.php on line 16
+[07-Oct-2013 19:50:50] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorUrl.inc.php on line 16
+[07-Oct-2013 19:50:52] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorRegExp.inc.php on line 15
+[07-Oct-2013 19:50:52] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorRegExp.inc.php on line 15
+[07-Oct-2013 19:50:55] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorAlphaNum.inc.php on line 16
+[07-Oct-2013 19:50:55] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorAlphaNum.inc.php on line 16
+[07-Oct-2013 19:50:55] PHP Fatal error:  Class 'FormValidator' not found in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorCaptcha.inc.php on line 15
+[07-Oct-2013 19:50:55] PHP Fatal error:  Class 'FormValidator' not found in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorCaptcha.inc.php on line 15
+[07-Oct-2013 19:50:57] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorEmail.inc.php on line 16
+[07-Oct-2013 19:50:57] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorEmail.inc.php on line 16
+[07-Oct-2013 19:51:10] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorPost.inc.php on line 15
+[07-Oct-2013 19:51:10] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorPost.inc.php on line 15
+[21-Oct-2013 20:05:38] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorISSN.inc.php on line 15
+[21-Oct-2013 20:05:38] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorListbuilder.inc.php on line 16
+[21-Oct-2013 20:05:38] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorBoolean.inc.php on line 17
+[21-Oct-2013 20:05:40] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorArray.inc.php on line 15
+[21-Oct-2013 20:05:40] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorControlledVocab.inc.php on line 15
+[21-Oct-2013 20:05:40] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorLength.inc.php on line 15
+[21-Oct-2013 20:05:40] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorLocaleEmail.inc.php on line 16
+[21-Oct-2013 20:05:40] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorLocaleUrl.inc.php on line 16
+[21-Oct-2013 20:05:40] PHP Fatal error:  Class 'FormValidator' not found in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorLocale.inc.php on line 15
+[21-Oct-2013 20:05:40] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorInSet.inc.php on line 15
+[21-Oct-2013 20:05:40] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorArrayCustom.inc.php on line 15
+[21-Oct-2013 20:05:41] PHP Fatal error:  Class 'FormValidator' not found in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorReCaptcha.inc.php on line 15
+[21-Oct-2013 20:05:41] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorPost.inc.php on line 15
+[21-Oct-2013 20:05:41] PHP Fatal error:  Class 'FormValidator' not found in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorCaptcha.inc.php on line 15
+[21-Oct-2013 20:05:41] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorCustom.inc.php on line 15
+[21-Oct-2013 20:05:41] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorUrl.inc.php on line 16
+[21-Oct-2013 20:05:41] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorAlphaNum.inc.php on line 16
+[21-Oct-2013 20:05:41] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorEmail.inc.php on line 16
+[21-Oct-2013 20:05:41] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorUri.inc.php on line 17
+[21-Oct-2013 20:05:41] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorRegExp.inc.php on line 15
+[21-Oct-2013 20:12:35] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorInSet.inc.php on line 15
+[21-Oct-2013 20:12:36] PHP Fatal error:  Class 'FormValidator' not found in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorReCaptcha.inc.php on line 15
+[21-Oct-2013 20:12:36] PHP Fatal error:  Class 'FormValidator' not found in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorReCaptcha.inc.php on line 15
+[21-Oct-2013 20:12:36] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorPost.inc.php on line 15
+[21-Oct-2013 20:12:36] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorPost.inc.php on line 15
+[21-Oct-2013 20:12:36] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorCustom.inc.php on line 15
+[21-Oct-2013 20:12:36] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorCustom.inc.php on line 15
+[21-Oct-2013 20:12:36] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorLength.inc.php on line 15
+[21-Oct-2013 20:12:36] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorLength.inc.php on line 15
+[21-Oct-2013 20:12:36] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorLocaleEmail.inc.php on line 16
+[21-Oct-2013 20:12:36] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorLocaleEmail.inc.php on line 16
+[21-Oct-2013 20:12:36] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorLocaleUrl.inc.php on line 16
+[21-Oct-2013 20:12:36] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorLocaleUrl.inc.php on line 16
+[21-Oct-2013 20:12:37] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorControlledVocab.inc.php on line 15
+[21-Oct-2013 20:12:37] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorControlledVocab.inc.php on line 15
+[21-Oct-2013 20:12:37] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorArrayCustom.inc.php on line 15
+[21-Oct-2013 20:12:37] PHP Fatal error:  Class 'FormValidator' not found in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorLocale.inc.php on line 15
+[21-Oct-2013 20:12:37] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorArrayCustom.inc.php on line 15
+[21-Oct-2013 20:12:37] PHP Fatal error:  Class 'FormValidator' not found in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorLocale.inc.php on line 15
+[21-Oct-2013 20:12:37] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorInSet.inc.php on line 15
+[21-Oct-2013 20:12:37] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorListbuilder.inc.php on line 16
+[21-Oct-2013 20:12:37] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorListbuilder.inc.php on line 16
+[21-Oct-2013 20:12:37] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorBoolean.inc.php on line 17
+[21-Oct-2013 20:12:37] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorBoolean.inc.php on line 17
+[21-Oct-2013 20:12:38] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorArray.inc.php on line 15
+[21-Oct-2013 20:12:38] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorArray.inc.php on line 15
+[21-Oct-2013 20:12:40] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorISSN.inc.php on line 15
+[21-Oct-2013 20:12:40] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorISSN.inc.php on line 15
+[21-Oct-2013 20:12:52] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorUri.inc.php on line 17
+[21-Oct-2013 20:12:52] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorUri.inc.php on line 17
+[21-Oct-2013 20:12:53] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorEmail.inc.php on line 16
+[21-Oct-2013 20:12:53] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorRegExp.inc.php on line 15
+[21-Oct-2013 20:12:53] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorRegExp.inc.php on line 15
+[21-Oct-2013 20:12:53] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorEmail.inc.php on line 16
+[21-Oct-2013 20:12:53] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorAlphaNum.inc.php on line 16
+[21-Oct-2013 20:12:53] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorUrl.inc.php on line 16
+[21-Oct-2013 20:12:53] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorAlphaNum.inc.php on line 16
+[21-Oct-2013 20:12:53] PHP Fatal error:  Class 'FormValidator' not found in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorCaptcha.inc.php on line 15
+[21-Oct-2013 20:12:53] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorUrl.inc.php on line 16
+[21-Oct-2013 20:12:53] PHP Fatal error:  Class 'FormValidator' not found in /home/ijmein/public_html/lib/pkp/classes/form/validation/FormValidatorCaptcha.inc.php on line 15

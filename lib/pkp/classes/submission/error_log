@@ -1,0 +1,35 @@
+[07-Oct-2013 19:36:17] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/submission/PKPAuthor.inc.php on line 16
+[07-Oct-2013 19:36:17] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/submission/Submission.inc.php on line 19
+[07-Oct-2013 19:36:17] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/submission/SubmissionFileDAODelegate.inc.php on line 17
+[07-Oct-2013 19:36:18] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/submission/SubmissionFile.inc.php on line 15
+[07-Oct-2013 19:36:19] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/submission/PKPAuthorDAO.inc.php on line 17
+[07-Oct-2013 19:36:19] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/submission/PKPSubmissionFileDAO.inc.php on line 32
+[07-Oct-2013 19:39:13] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/submission/PKPAuthor.inc.php on line 16
+[07-Oct-2013 19:39:14] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/submission/SubmissionFileDAODelegate.inc.php on line 17
+[07-Oct-2013 19:39:14] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/submission/SubmissionFileDAODelegate.inc.php on line 17
+[07-Oct-2013 19:39:14] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/submission/PKPAuthor.inc.php on line 16
+[07-Oct-2013 19:39:14] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/submission/Submission.inc.php on line 19
+[07-Oct-2013 19:39:14] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/submission/SubmissionFile.inc.php on line 15
+[07-Oct-2013 19:39:14] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/submission/Submission.inc.php on line 19
+[07-Oct-2013 19:39:14] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/submission/PKPSubmissionFileDAO.inc.php on line 32
+[07-Oct-2013 19:39:14] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/submission/PKPSubmissionFileDAO.inc.php on line 32
+[07-Oct-2013 19:39:15] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/submission/PKPAuthorDAO.inc.php on line 17
+[07-Oct-2013 19:39:15] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/submission/PKPAuthorDAO.inc.php on line 17
+[21-Oct-2013 19:57:45] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/submission/Submission.inc.php on line 19
+[21-Oct-2013 19:57:45] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/submission/SubmissionFileDAODelegate.inc.php on line 17
+[21-Oct-2013 19:57:45] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/submission/SubmissionFile.inc.php on line 15
+[21-Oct-2013 19:57:45] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/submission/PKPAuthorDAO.inc.php on line 17
+[21-Oct-2013 19:57:45] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/submission/PKPSubmissionFileDAO.inc.php on line 32
+[21-Oct-2013 19:57:45] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/submission/PKPAuthor.inc.php on line 16
+[21-Oct-2013 20:01:29] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/submission/PKPSubmissionFileDAO.inc.php on line 32
+[21-Oct-2013 20:01:29] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/submission/PKPSubmissionFileDAO.inc.php on line 32
+[21-Oct-2013 20:01:31] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/submission/PKPAuthor.inc.php on line 16
+[21-Oct-2013 20:01:31] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/submission/PKPAuthor.inc.php on line 16
+[21-Oct-2013 20:01:34] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/submission/Submission.inc.php on line 19
+[21-Oct-2013 20:01:34] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/submission/Submission.inc.php on line 19
+[21-Oct-2013 20:01:34] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/submission/SubmissionFileDAODelegate.inc.php on line 17
+[21-Oct-2013 20:01:34] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/submission/SubmissionFileDAODelegate.inc.php on line 17
+[21-Oct-2013 20:01:34] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/submission/SubmissionFile.inc.php on line 15
+[21-Oct-2013 20:01:35] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/submission/SubmissionFile.inc.php on line 15
+[21-Oct-2013 20:01:35] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/submission/PKPAuthorDAO.inc.php on line 17
+[21-Oct-2013 20:01:35] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/submission/PKPAuthorDAO.inc.php on line 17

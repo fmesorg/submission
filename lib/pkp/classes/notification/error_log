@@ -1,0 +1,37 @@
+[07-Oct-2013 19:36:24] PHP Fatal error:  Class 'DAO' not found in /home/ijmein/public_html/lib/pkp/classes/notification/NotificationSubscriptionSettingsDAO.inc.php on line 19
+[07-Oct-2013 19:36:24] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/notification/PKPNotificationManager.inc.php on line 17
+[07-Oct-2013 19:36:24] PHP Fatal error:  Class 'DAO' not found in /home/ijmein/public_html/lib/pkp/classes/notification/NotificationMailListDAO.inc.php on line 16
+[07-Oct-2013 19:36:24] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/notification/PKPNotification.inc.php on line 15
+[07-Oct-2013 19:36:24] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/notification/NotificationSettingsDAO.inc.php on line 17
+[07-Oct-2013 19:36:24] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/notification/NotificationDAO.inc.php on line 17
+[07-Oct-2013 19:39:26] PHP Fatal error:  Class 'DAO' not found in /home/ijmein/public_html/lib/pkp/classes/notification/NotificationSubscriptionSettingsDAO.inc.php on line 19
+[07-Oct-2013 19:39:26] PHP Fatal error:  Class 'DAO' not found in /home/ijmein/public_html/lib/pkp/classes/notification/NotificationSubscriptionSettingsDAO.inc.php on line 19
+[07-Oct-2013 19:39:26] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/notification/PKPNotificationManager.inc.php on line 17
+[07-Oct-2013 19:39:27] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/notification/PKPNotificationManager.inc.php on line 17
+[07-Oct-2013 19:39:27] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/notification/NotificationSettingsDAO.inc.php on line 17
+[07-Oct-2013 19:39:27] PHP Fatal error:  Class 'DAO' not found in /home/ijmein/public_html/lib/pkp/classes/notification/NotificationMailListDAO.inc.php on line 16
+[07-Oct-2013 19:39:27] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/notification/NotificationSettingsDAO.inc.php on line 17
+[07-Oct-2013 19:39:27] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/notification/PKPNotification.inc.php on line 15
+[07-Oct-2013 19:39:27] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/notification/NotificationDAO.inc.php on line 17
+[07-Oct-2013 19:39:27] PHP Fatal error:  Class 'DAO' not found in /home/ijmein/public_html/lib/pkp/classes/notification/NotificationMailListDAO.inc.php on line 16
+[07-Oct-2013 19:39:27] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/notification/NotificationDAO.inc.php on line 17
+[07-Oct-2013 19:43:29] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/notification/PKPNotification.inc.php on line 15
+[21-Oct-2013 19:57:32] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/notification/PKPNotificationManager.inc.php on line 17
+[21-Oct-2013 19:57:33] PHP Fatal error:  Class 'DAO' not found in /home/ijmein/public_html/lib/pkp/classes/notification/NotificationMailListDAO.inc.php on line 16
+[21-Oct-2013 19:57:32] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/notification/PKPNotification.inc.php on line 15
+[21-Oct-2013 19:57:32] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/notification/NotificationDAO.inc.php on line 17
+[21-Oct-2013 19:57:33] PHP Fatal error:  Class 'DAO' not found in /home/ijmein/public_html/lib/pkp/classes/notification/NotificationSubscriptionSettingsDAO.inc.php on line 19
+[21-Oct-2013 19:57:33] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/notification/NotificationSettingsDAO.inc.php on line 17
+[21-Oct-2013 20:01:13] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/notification/NotificationDAO.inc.php on line 17
+[21-Oct-2013 20:01:13] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/notification/PKPNotification.inc.php on line 15
+[21-Oct-2013 20:01:13] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/notification/NotificationDAO.inc.php on line 17
+[21-Oct-2013 20:01:13] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/notification/PKPNotification.inc.php on line 15
+[21-Oct-2013 20:01:13] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/notification/PKPNotificationManager.inc.php on line 17
+[21-Oct-2013 20:01:13] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/notification/PKPNotificationManager.inc.php on line 17
+[21-Oct-2013 20:01:13] PHP Fatal error:  Class 'DAO' not found in /home/ijmein/public_html/lib/pkp/classes/notification/NotificationSubscriptionSettingsDAO.inc.php on line 19
+[21-Oct-2013 20:01:13] PHP Fatal error:  Class 'DAO' not found in /home/ijmein/public_html/lib/pkp/classes/notification/NotificationMailListDAO.inc.php on line 16
+[21-Oct-2013 20:01:13] PHP Fatal error:  Class 'DAO' not found in /home/ijmein/public_html/lib/pkp/classes/notification/NotificationSubscriptionSettingsDAO.inc.php on line 19
+[21-Oct-2013 20:01:13] PHP Fatal error:  Class 'DAO' not found in /home/ijmein/public_html/lib/pkp/classes/notification/NotificationMailListDAO.inc.php on line 16
+[21-Oct-2013 20:01:15] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/notification/NotificationSettingsDAO.inc.php on line 17
+[21-Oct-2013 20:06:06] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/notification/NotificationSettingsDAO.inc.php on line 17
+[21-Oct-2013 20:13:09] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/notification/NotificationSettingsDAO.inc.php on line 17

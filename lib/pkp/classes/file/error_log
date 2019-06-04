@@ -1,0 +1,52 @@
+[07-Oct-2013 19:36:28] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/EditableLocaleFile.inc.php on line 17
+[07-Oct-2013 19:36:28] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/PrivateFileManager.inc.php on line 15
+[07-Oct-2013 19:36:28] PHP Fatal error:  Class 'Core' not found in /home/ijmein/public_html/lib/pkp/classes/file/PKPFileDAO.inc.php on line 17
+[07-Oct-2013 19:36:28] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/EditableEmailFile.inc.php on line 17
+[07-Oct-2013 19:36:28] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/file/PKPFile.inc.php on line 15
+[07-Oct-2013 19:36:28] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/TemporaryFileDAO.inc.php on line 17
+[07-Oct-2013 19:36:31] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/PKPPublicFileManager.inc.php on line 16
+[07-Oct-2013 19:36:31] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/TemporaryFile.inc.php on line 16
+[07-Oct-2013 19:36:31] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/PKPTemporaryFileManager.inc.php on line 16
+[07-Oct-2013 19:39:26] PHP Fatal error:  Class 'Core' not found in /home/ijmein/public_html/lib/pkp/classes/file/PKPFileDAO.inc.php on line 17
+[07-Oct-2013 19:39:26] PHP Fatal error:  Class 'Core' not found in /home/ijmein/public_html/lib/pkp/classes/file/PKPFileDAO.inc.php on line 17
+[07-Oct-2013 19:39:28] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/EditableLocaleFile.inc.php on line 17
+[07-Oct-2013 19:39:28] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/EditableLocaleFile.inc.php on line 17
+[07-Oct-2013 19:39:28] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/PrivateFileManager.inc.php on line 15
+[07-Oct-2013 19:39:30] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/PKPPublicFileManager.inc.php on line 16
+[07-Oct-2013 19:39:30] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/TemporaryFile.inc.php on line 16
+[07-Oct-2013 19:39:31] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/TemporaryFile.inc.php on line 16
+[07-Oct-2013 19:39:31] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/PKPTemporaryFileManager.inc.php on line 16
+[07-Oct-2013 19:39:31] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/PKPTemporaryFileManager.inc.php on line 16
+[07-Oct-2013 19:39:34] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/PKPPublicFileManager.inc.php on line 16
+[07-Oct-2013 19:39:39] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/EditableEmailFile.inc.php on line 17
+[07-Oct-2013 19:39:39] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/EditableEmailFile.inc.php on line 17
+[07-Oct-2013 19:39:42] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/file/PKPFile.inc.php on line 15
+[07-Oct-2013 19:39:42] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/file/PKPFile.inc.php on line 15
+[07-Oct-2013 19:39:42] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/TemporaryFileDAO.inc.php on line 17
+[07-Oct-2013 19:39:42] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/TemporaryFileDAO.inc.php on line 17
+[21-Oct-2013 19:57:32] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/file/PKPFile.inc.php on line 15
+[21-Oct-2013 19:57:32] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/TemporaryFileDAO.inc.php on line 17
+[21-Oct-2013 19:57:32] PHP Fatal error:  Class 'Core' not found in /home/ijmein/public_html/lib/pkp/classes/file/PKPFileDAO.inc.php on line 17
+[21-Oct-2013 19:57:33] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/PKPPublicFileManager.inc.php on line 16
+[21-Oct-2013 19:57:33] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/EditableLocaleFile.inc.php on line 17
+[21-Oct-2013 19:57:33] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/PrivateFileManager.inc.php on line 15
+[21-Oct-2013 19:57:34] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/EditableEmailFile.inc.php on line 17
+[21-Oct-2013 19:57:34] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/TemporaryFile.inc.php on line 16
+[21-Oct-2013 19:57:34] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/PKPTemporaryFileManager.inc.php on line 16
+[21-Oct-2013 20:01:12] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/TemporaryFileDAO.inc.php on line 17
+[21-Oct-2013 20:01:12] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/file/PKPFile.inc.php on line 15
+[21-Oct-2013 20:01:12] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/TemporaryFileDAO.inc.php on line 17
+[21-Oct-2013 20:01:12] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/PKPPublicFileManager.inc.php on line 16
+[21-Oct-2013 20:01:13] PHP Fatal error:  Class 'Core' not found in /home/ijmein/public_html/lib/pkp/classes/file/PKPFileDAO.inc.php on line 17
+[21-Oct-2013 20:01:13] PHP Fatal error:  Class 'Core' not found in /home/ijmein/public_html/lib/pkp/classes/file/PKPFileDAO.inc.php on line 17
+[21-Oct-2013 20:01:13] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/PKPPublicFileManager.inc.php on line 16
+[21-Oct-2013 20:01:14] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/file/PKPFile.inc.php on line 15
+[21-Oct-2013 20:01:14] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/EditableEmailFile.inc.php on line 17
+[21-Oct-2013 20:01:14] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/EditableEmailFile.inc.php on line 17
+[21-Oct-2013 20:01:14] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/PKPTemporaryFileManager.inc.php on line 16
+[21-Oct-2013 20:01:15] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/PKPTemporaryFileManager.inc.php on line 16
+[21-Oct-2013 20:01:15] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/TemporaryFile.inc.php on line 16
+[21-Oct-2013 20:01:15] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/TemporaryFile.inc.php on line 16
+[21-Oct-2013 20:01:15] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/PrivateFileManager.inc.php on line 15
+[21-Oct-2013 20:01:15] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/EditableLocaleFile.inc.php on line 17
+[21-Oct-2013 20:01:15] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/EditableLocaleFile.inc.php on line 17

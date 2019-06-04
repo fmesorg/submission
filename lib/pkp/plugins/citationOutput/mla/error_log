@@ -1,0 +1,6 @@
+[07-Oct-2013 19:41:22] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/plugins/citationOutput/mla/PKPMlaCitationOutputPlugin.inc.php on line 20
+[07-Oct-2013 19:46:23] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/plugins/citationOutput/mla/PKPMlaCitationOutputPlugin.inc.php on line 20
+[07-Oct-2013 19:46:23] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/plugins/citationOutput/mla/PKPMlaCitationOutputPlugin.inc.php on line 20
+[21-Oct-2013 20:04:35] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/plugins/citationOutput/mla/PKPMlaCitationOutputPlugin.inc.php on line 20
+[21-Oct-2013 20:10:47] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/plugins/citationOutput/mla/PKPMlaCitationOutputPlugin.inc.php on line 20
+[21-Oct-2013 20:10:47] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/plugins/citationOutput/mla/PKPMlaCitationOutputPlugin.inc.php on line 20

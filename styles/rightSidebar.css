@@ -1,0 +1,40 @@
+/**
+ * styles/rightSidebar.css
+ *
+ * Copyright (c) 2003-2013 John Willinsky
+ * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+ *
+ * Site-wide shared elements for pages including a right-hand sidebar.
+ *
+ */
+
+/**
+ * Common HTML elements
+ */
+
+
+#headerTitle {
+	text-align: center;
+	width: 100%;
+}
+
+#body {
+	width: 100%;
+}
+
+#rightSidebar {
+	height: 100%;
+	margin-left:0px;
+	padding-bottom:20px;
+}
+
+* html #rightSidebar { margin-right: 5%; }
+
+#main {
+	float: left;
+	display: inline;
+	overflow: hidden;
+}
+
+
+

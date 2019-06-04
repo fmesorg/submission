@@ -1,0 +1,24 @@
+[07-Oct-2013 19:43:27] PHP Fatal error:  Class 'FileWrapper' not found in /home/ijmein/public_html/lib/pkp/classes/file/wrappers/ResourceWrapper.inc.php on line 15
+[07-Oct-2013 19:43:27] PHP Fatal error:  Class 'FileWrapper' not found in /home/ijmein/public_html/lib/pkp/classes/file/wrappers/FTPFileWrapper.inc.php on line 18
+[07-Oct-2013 19:43:27] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/wrappers/HTTPSFileWrapper.inc.php on line 18
+[07-Oct-2013 19:43:27] PHP Fatal error:  Class 'FileWrapper' not found in /home/ijmein/public_html/lib/pkp/classes/file/wrappers/HTTPFileWrapper.inc.php on line 17
+[07-Oct-2013 19:49:31] PHP Fatal error:  Class 'FileWrapper' not found in /home/ijmein/public_html/lib/pkp/classes/file/wrappers/HTTPFileWrapper.inc.php on line 17
+[07-Oct-2013 19:49:31] PHP Fatal error:  Class 'FileWrapper' not found in /home/ijmein/public_html/lib/pkp/classes/file/wrappers/HTTPFileWrapper.inc.php on line 17
+[07-Oct-2013 19:49:31] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/wrappers/HTTPSFileWrapper.inc.php on line 18
+[07-Oct-2013 19:49:31] PHP Fatal error:  Class 'FileWrapper' not found in /home/ijmein/public_html/lib/pkp/classes/file/wrappers/ResourceWrapper.inc.php on line 15
+[07-Oct-2013 19:49:31] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/wrappers/HTTPSFileWrapper.inc.php on line 18
+[07-Oct-2013 19:49:31] PHP Fatal error:  Class 'FileWrapper' not found in /home/ijmein/public_html/lib/pkp/classes/file/wrappers/ResourceWrapper.inc.php on line 15
+[07-Oct-2013 19:49:36] PHP Fatal error:  Class 'FileWrapper' not found in /home/ijmein/public_html/lib/pkp/classes/file/wrappers/FTPFileWrapper.inc.php on line 18
+[07-Oct-2013 19:49:36] PHP Fatal error:  Class 'FileWrapper' not found in /home/ijmein/public_html/lib/pkp/classes/file/wrappers/FTPFileWrapper.inc.php on line 18
+[21-Oct-2013 20:05:50] PHP Fatal error:  Class 'FileWrapper' not found in /home/ijmein/public_html/lib/pkp/classes/file/wrappers/ResourceWrapper.inc.php on line 15
+[21-Oct-2013 20:05:50] PHP Fatal error:  Class 'FileWrapper' not found in /home/ijmein/public_html/lib/pkp/classes/file/wrappers/FTPFileWrapper.inc.php on line 18
+[21-Oct-2013 20:05:50] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/wrappers/HTTPSFileWrapper.inc.php on line 18
+[21-Oct-2013 20:05:50] PHP Fatal error:  Class 'FileWrapper' not found in /home/ijmein/public_html/lib/pkp/classes/file/wrappers/HTTPFileWrapper.inc.php on line 17
+[21-Oct-2013 20:12:57] PHP Fatal error:  Class 'FileWrapper' not found in /home/ijmein/public_html/lib/pkp/classes/file/wrappers/FTPFileWrapper.inc.php on line 18
+[21-Oct-2013 20:12:58] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/wrappers/HTTPSFileWrapper.inc.php on line 18
+[21-Oct-2013 20:12:58] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/file/wrappers/HTTPSFileWrapper.inc.php on line 18
+[21-Oct-2013 20:12:58] PHP Fatal error:  Class 'FileWrapper' not found in /home/ijmein/public_html/lib/pkp/classes/file/wrappers/HTTPFileWrapper.inc.php on line 17
+[21-Oct-2013 20:12:58] PHP Fatal error:  Class 'FileWrapper' not found in /home/ijmein/public_html/lib/pkp/classes/file/wrappers/HTTPFileWrapper.inc.php on line 17
+[21-Oct-2013 20:12:59] PHP Fatal error:  Class 'FileWrapper' not found in /home/ijmein/public_html/lib/pkp/classes/file/wrappers/ResourceWrapper.inc.php on line 15
+[21-Oct-2013 20:13:00] PHP Fatal error:  Class 'FileWrapper' not found in /home/ijmein/public_html/lib/pkp/classes/file/wrappers/ResourceWrapper.inc.php on line 15
+[21-Oct-2013 20:13:00] PHP Fatal error:  Class 'FileWrapper' not found in /home/ijmein/public_html/lib/pkp/classes/file/wrappers/FTPFileWrapper.inc.php on line 18

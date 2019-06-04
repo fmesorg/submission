@@ -1,0 +1,12 @@
+[07-Oct-2013 19:35:58] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/language/LanguageDAO.inc.php on line 17
+[07-Oct-2013 19:36:01] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/language/Language.inc.php on line 21
+[07-Oct-2013 19:38:45] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/language/LanguageDAO.inc.php on line 17
+[07-Oct-2013 19:38:45] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/language/LanguageDAO.inc.php on line 17
+[07-Oct-2013 19:38:56] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/language/Language.inc.php on line 21
+[07-Oct-2013 19:38:57] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/language/Language.inc.php on line 21
+[21-Oct-2013 19:57:15] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/language/LanguageDAO.inc.php on line 17
+[21-Oct-2013 19:57:16] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/language/Language.inc.php on line 21
+[21-Oct-2013 20:00:51] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/language/Language.inc.php on line 21
+[21-Oct-2013 20:00:51] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/language/Language.inc.php on line 21
+[21-Oct-2013 20:00:55] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/language/LanguageDAO.inc.php on line 17
+[21-Oct-2013 20:00:55] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/language/LanguageDAO.inc.php on line 17

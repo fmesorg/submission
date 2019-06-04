@@ -1,0 +1,50 @@
+/* ==========================================================================
+ Author's custom styles
+ ========================================================================== */
+body {
+	word-wrap: break-word;
+	/*padding-top: 60px;
+	padding-bottom: 40px;*/
+}
+h1, h2, h3, h4, h5, h6 {
+	margin: 13px 0 5px;
+	line-height: 1.3em;
+}
+li {
+	margin: 7px 0;
+}
+:target {
+	background-color: #cce8ea;
+}
+h4 {
+	color: #57aeb5;
+}
+::selection {
+	background: #83d2d8;
+	color: #ffffff; /* Safari */
+}
+::-moz-selection {
+	background: #83d2d8; /* Firefox */
+	color: #ffffff;
+}
+a:hover, a:focus {
+	text-decoration: none;
+	border-bottom: 1px dotted;
+}
+.reference {
+	color: #89C9CF;
+}
+.well {
+	border-radius: 3px;
+}
+.well h4 {
+	margin-top: 0;
+	background-color: #272727;
+	color: #fff;
+	padding: 0 0 5px 10px;
+}
+.well li {
+	color: #272727;
+	padding: 5px;
+}
+

@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+	<head>
+
+		<meta charset="utf-8" />
+
+
+
+		<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame
+
+		Remove this if you use the .htaccess -->
+
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+
+
+		<title>IJME Carousel</title>
+
+		<meta name="description" content="" />
+
+		<meta name="author" content="user" />
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+
+		<!-- Important Owl stylesheet -->
+
+		<link rel="stylesheet" href="css/owl.carousel.css">
+
+
+
+		<!-- Default Theme -->
+
+		<link rel="stylesheet" href="css/owl.theme.css">
+
+
+
+		<!--Custom Css-->
+
+		<style type="text/css">
+
+			#owl-demo .item {
+
+				margin: 3px;
+
+			}
+
+			#owl-demo .item img {
+
+				display: block;
+
+				width: 100%;
+
+				height: auto;
+
+			}
+
+			.nav-btn {
+
+				position: relative;
+
+				top: -98px;
+
+			}
+
+			.next {
+
+				float: right;
+
+   				padding-right: 15px;
+
+			}
+
+			.item img {
+
+				border: 1px solid #DDDDDD;
+
+			}
+			
+			.owl-item{
+				text-align: center !important;
+			}
+			
+			.owl-carousel{
+				width: 100% !important;
+			
+			}
+
+			
+
+		</style>
+
+
+
+		<!--  jQuery 1.7+  -->
+
+		<script src="js/jquery-1.9.1.min.js"></script>
+
+
+
+		<!-- Include js plugin -->
+
+		<script src="js/owl.carousel.min.js"></script>
+
+
+
+	</head>
+
+
+
+	<body>
+
+		<div id="carousel">
+
+			<div class="item"><a href="http://216.12.194.36/~ijmein/index.php/ijme/issue/view/3" target="_parent"><img src="images/2013_issue_1.jpg" alt="IJME Issue-1">
+            <p align="center" style="text-decoration:none;">Jan-Mar (10-1)</p></a></div>
+
+			<div class="item"><a href="http://216.12.194.36/~ijmein/index.php/ijme/issue/view/1" target="_parent"><img src="images/2013_issue_2.jpg" alt="IJME Issue-2">
+            <p align="center" style="text-decoration:none;">Apr-Jun (10-2)</p></a></div>
+
+			<div class="item"><a href="http://216.12.194.36/~ijmein/index.php/ijme/issue/view/2" target="_parent"><img src="images/2013_issue_3.jpg" alt="IJME Issue-3">
+            <p align="center" style="text-decoration:none;">Jul-Sep (10-3)</p></a></div>
+
+			<div class="item"><a href="http://216.12.194.36/~ijmein/index.php/ijme/issue/view/46" target="_parent"><img src="images/2013_issue_4.jpg" alt="IJME Issue-1">
+            <p align="center" style="text-decoration:none;">Oct-Dec (10-4)</p></a></div>
+
+			<div class="item"><a href="http://216.12.194.36/~ijmein/index.php/ijme/issue/view/12" target="_parent"><img src="images/2012_issue_1.jpg" alt="IJME Issue-2">
+            <p align="center" style="text-decoration:none;">Jan-Mar (9-1)</p></a></div>
+
+			<div class="item"><a href="http://216.12.194.36/~ijmein/index.php/ijme/issue/view/9" target="_parent"><img src="images/2012_issue_2.jpg" alt="IJME Issue-3">
+            <p align="center" style="text-decoration:none;">Apr-Jun (9-2)</p></a></div>
+            
+			<div class="item"><a href="http://216.12.194.36/~ijmein/index.php/ijme/issue/view/8" target="_parent"><img src="images/2012_issue_3.jpg" alt="IJME Issue-3">
+            <p align="center" style="text-decoration:none;">Jul-Sep (9-3)</p></a></div>
+
+			<div class="item"><a href="http://216.12.194.36/~ijmein/index.php/ijme/issue/view/6" target="_parent"><img src="images/2012_issue_4.jpg" alt="IJME Issue-1">
+            <p align="center" style="text-decoration:none;">Oct-Dec (9-4)</p></a></div>
+
+		</div>
+
+
+
+		<!-- <div class="nav-btn">
+
+			<a class="btn prev"><img src="asset/prev-btn.png"></a>
+
+			<a class="btn next"><img src="asset/next-btn.png"></a>
+
+		</div> -->
+
+		<script>
+
+			/*$(document).ready(function() {
+
+
+
+			 $("#carousel").owlCarousel({
+
+
+
+			 autoPlay : 3000, //Set AutoPlay to 3 seconds
+
+			 items : 6,
+
+			 itemsDesktop : [1199, 8],
+
+			 itemsDesktopSmall : [980, 6],
+
+			 itemsTablet : [768, 4],
+
+			 itemsMobile : [479, 3],
+
+			 itemsMobileSmall : [380, 2]
+
+			 });
+
+
+
+			 // Custom Navigation Events
+
+			 $(".next").click(function() {
+
+			 owl.trigger('owl.next');
+
+			 })
+
+			 $(".prev").click(function() {
+
+			 owl.trigger('owl.prev');
+
+			 })
+
+			 });*/
+
+
+
+			$(document).ready(function() {
+
+
+
+				var owl = $("#carousel");
+
+
+
+				owl.owlCarousel({
+
+					autoPlay : 3000, //Set AutoPlay to 3 seconds
+
+					items : 5,
+
+					itemsDesktop : [1500, 5],
+							
+					itemsDesktopSmall : [980, 3],
+					
+					itemsTablet : [550, 3],
+
+					itemsMobile : [400, 2],
+					
+					itemsMobileSmall : [310, 1],
+
+					pagination : false
+
+				});
+
+
+
+/*				// Custom Navigation Events
+
+				$(".next").click(function() {
+
+					owl.trigger('owl.next');
+
+				})
+
+				$(".prev").click(function() {
+
+					owl.trigger('owl.prev');
+
+				})*/
+
+			});
+
+		</script>
+
+	</body>
+
+</html>
+

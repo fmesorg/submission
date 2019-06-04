@@ -1,0 +1,6 @@
+[07-Oct-2013 19:41:17] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/plugins/metadata/dc11/PKPDc11MetadataPlugin.inc.php on line 20
+[07-Oct-2013 19:46:07] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/plugins/metadata/dc11/PKPDc11MetadataPlugin.inc.php on line 20
+[07-Oct-2013 19:46:07] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/plugins/metadata/dc11/PKPDc11MetadataPlugin.inc.php on line 20
+[21-Oct-2013 20:04:24] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/plugins/metadata/dc11/PKPDc11MetadataPlugin.inc.php on line 20
+[21-Oct-2013 20:10:29] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/plugins/metadata/dc11/PKPDc11MetadataPlugin.inc.php on line 20
+[21-Oct-2013 20:10:29] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/plugins/metadata/dc11/PKPDc11MetadataPlugin.inc.php on line 20

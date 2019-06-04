@@ -1,0 +1,2763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v2.3 20070202//EN" "journalpublishing.dtd">
+<!-- The content and tagging of this article were modified from the original article:
+ Krieger N, Chen JT, Coull BA, Selby JV, Peltonen. Lifetime Socioeconomic Position and Twins' Health: An Analysis of 308 Pairs of United States Women Twins. PLoS Med 2005 Jul; 2(7):e162.
+ The modifications made were for tagging illustrations only.  -->
+<article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="nlm-ta">PLoS Med</journal-id>
+      <journal-id journal-id-type="publisher-id">pmed</journal-id>
+      <journal-title>PLoS Medicine</journal-title>
+      <issn pub-type="ppub">1549-1277</issn>
+      <issn pub-type="epub">1549-1676</issn>
+      <publisher>
+      	<publisher-name>Public Library of Science</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.1371/journal.pmed.0020162</article-id>
+      <article-categories>
+        <subj-group subj-group-type="heading">
+          <subject>Research Article</subject>
+        </subj-group>
+        <subj-group>
+					<subject>Epidemiology/Public Health</subject>
+					<subject>Women's Health</subject>
+					<subject>Epidemiology</subject>
+					<subject>Socioeconomic Determinants of Health</subject>
+	      </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Lifetime Socioeconomic Position and Twins' Health</article-title>
+        <subtitle>An Analysis of 308 Pairs of United States Women Twins</subtitle>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Krieger</surname>
+            <given-names>Nancy</given-names>
+          </name>
+          <xref ref-type="corresp" rid="COR1">&#x0002a;</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Chen</surname>
+            <given-names>Jarvis T</given-names>
+          </name>
+        </contrib>
+        <aff>Department of Society, Human Development and Health, Harvard School of Public Health, Boston, Massachusetts, United States of America</aff>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Coull</surname>
+            <given-names>Brent A</given-names>
+          </name>
+        <aff>Department of Statistics, Harvard School of Public Health, Boston, Massachusetts, United States of America</aff>
+        </contrib>
+       </contrib-group>
+       <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Selby</surname>
+            <given-names>Joe V</given-names>
+          </name>
+        <aff>Division of Research, Kaiser Permanente, Oakland, California, United States of America</aff>
+        </contrib>
+      </contrib-group>
+      <contrib-group>
+        <contrib contrib-type="editor">
+          <name>
+            <surname>Peltonen</surname>
+            <given-names>Leena</given-names>
+          </name>
+          <role>Academic Editor</role>
+          <aff>
+            <institution>University of California, Los Angeles</institution>
+            <country>United States of America</country>
+          </aff>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <corresp id="COR1">&#x0002a;To whom correspondence should be addressed. E-mail: <email>nkrieger&#x00040;hsph.harvard.edu</email></corresp>
+        <!-- note that in the next version of the DTD, label will be allowed in corresp -->
+        <fn id="FN2" fn-type="conflict">
+          <p><bold>Competing Interests:</bold> The authors have declared that no competing interests exist.</p>
+        </fn>
+        <fn id="FN3" fn-type="con">
+          <p><bold>Author Contributions:</bold> NK conceived and designed the study, interpreted the data, and prepared the manuscript. JTC helped devise the analytic plan, conducted the analyses, and assisted with interpreting the data and preparing the manuscript. BAC advised on the analytic plan, and assisted with analyzing and interpreting the data and with preparing the manuscript. JVS designed the Kaiser Permanente Women Twins Study II, and assisted with interpretation of the data and preparing the manuscript.</p>
+        </fn>
+      </author-notes>
+      <pub-date pub-type="ppub">
+        <month>7</month>
+        <year>2005</year>
+      </pub-date>
+      <pub-date pub-type="epub">
+        <day>26</day>
+        <month>7</month>
+        <year>2005</year>
+      </pub-date>
+      <volume>2</volume>
+      <issue>7</issue>
+      <elocation-id>e162</elocation-id>
+      <history>
+        <date date-type="received">
+          <day>1</day>
+          <month>11</month>
+          <year>2004</year>
+        </date>
+        <date date-type="accepted">
+          <day>15</day>
+          <month>4</month>
+          <year>2005</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>Copyright: &#x000a9; 2005 Krieger et al.</copyright-statement>
+        <copyright-year>2005</copyright-year>
+        <license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.5/"><p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited.</p></license>
+      </permissions>
+      <related-article related-article-type="companion" vol="2" page="e235" id="RA1" ext-link-type="pmc">
+        <article-title>Twins' Health and Adult Socioeconomic Status</article-title>
+      </related-article>
+      <abstract abstract-type="executive-summary">
+        <sec id="st1">
+          <title>Background</title>
+          <p>Important controversies exist about the extent to which people's health status as adults is shaped by their living conditions in early life compared to adulthood. These debates have important policy implications, and one obstacle to resolving them is the relative lack of sufficient high-quality data on childhood and adult socioeconomic position and adult health status. We accordingly compared the health status among monozygotic and dizygotic women twin pairs who lived together through childhood (until at least age 14) and subsequently were discordant or concordant on adult socioeconomic position. This comparison permitted us to ascertain the additional impact of adult experiences on adult health in a population matched on early life experiences.</p>
+        </sec>
+        <sec id="st2">
+          <title>Methods and Findings</title>
+          <p>Our study employed data from a cross-sectional survey and physical examinations of twins in a population-based twin registry, the Kaiser Permanente Women Twins Study Examination II, conducted in 1989 to 1990 in Oakland, California, United States. The study population was composed of 308 women twin pairs (58&#x00025; monozygotic, 42&#x00025; dizygotic); data were obtained on childhood and adult socioeconomic position and on blood pressure, cholesterol, post-load glucose, body mass index, waist-to-hip ratio, physical activity, and self-rated health. Health outcomes among adult women twin pairs who lived together through childhood varied by their subsequent adult occupational class. Cardiovascular factors overall differed more among monozygotic twin pairs that were discordant compared to concordant on occupational class. Moreover, among the monozygotic twins discordant on adult occupational class, the working class twin fared worse and, compared to her professional twin, on average had significantly higher systolic blood pressure (mean matched difference = 4.54 mm Hg; 95&#x00025; confidence interval &#x0005b;CI&#x0005d;, 0.10&#x02013;8.97), diastolic blood pressure (mean matched difference = 3.80 mm Hg; 95&#x00025; CI, 0.44&#x02013;7.17), and low-density lipoprotein cholesterol (mean matched difference = 7.82 mg/dl; 95&#x00025; CI, 1.07&#x02013;14.57). By contrast, no such differences were evident for analyses based on educational attainment, which does not capture post-education socioeconomic position.</p>
+        </sec>
+        <sec id="st3">
+          <title>Conclusion</title>
+          <p>These results provide novel evidence that lifetime socioeconomic position influences adult health and highlight the utility of studying social plus biological aspects of twinship.</p>
+        </sec>
+      </abstract>
+      <abstract abstract-type="toc">
+        <p>Differing socioeconomic positions in adult life are associated with differences in the health of twins raised together.</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="s1" sec-type="intro">
+      <title>Introduction</title>
+      <p>Twins have long provided a unique opportunity to study how health is shaped from conception to death by biological and social factors &#x0005b;<xref ref-type="bibr" rid="R01">1</xref>&#x02013;<xref ref-type="bibr" rid="R05">5</xref>&#x0005d;. At issue are the contributions, singly and combined, of genetic inheritance, in utero postzygotic events before and after twinning, and familial plus societal contexts, including the ways in which twins are treated by family members, each other, and society at large &#x0005b;<xref ref-type="bibr" rid="R01">1</xref>&#x02013;<xref ref-type="bibr" rid="R07">7</xref>&#x0005d;.</p>
+      <p>To explore these issues, one major trend in twin research has focused on comparing health status of twins raised separately since birth or early childhood &#x0005b;<xref ref-type="bibr" rid="R01">1</xref>&#x02013;<xref ref-type="bibr" rid="R07">7</xref>&#x0005d;. Far fewer studies have investigated how twins raised together, but who differ in their postadolescent socioeconomic position, compare on adult health status &#x0005b;<xref ref-type="bibr" rid="R02">2</xref>,<xref ref-type="bibr" rid="R04">4</xref>&#x0005d;. Yet such research could potentially inform current debates over the contribution of lifecourse socioeconomic conditions to adult health &#x0005b;<xref ref-type="bibr" rid="R08">8</xref>&#x02013;<xref ref-type="bibr" rid="R11">11</xref>&#x0005d;, given twins' shared genetic inheritance and early life socioeconomic plus biological exposures. Twins afford an important opportunity to examine the additional impact of adult experiences on adult health in a population matched on early life experiences.</p>
+      <p>In particular, one important unresolved issue in the burgeoning literature on lifecourse analysis of health concerns how well early life social circumstances are measured, since this these data are essential for distinguishing between the influence of early life and adult conditions on adult health status &#x0005b;<xref ref-type="bibr" rid="R08">8</xref>,<xref ref-type="bibr" rid="R09">9</xref>&#x0005d;. At issue are the often limited data on childhood socioeconomic conditions &#x0005b;<xref ref-type="bibr" rid="R08">8</xref>,<xref ref-type="bibr" rid="R09">9</xref>&#x0005d;, plus the possibility of systematic error, by adult socioeconomic position, when adults recollect their early childhood circumstances &#x0005b;<xref ref-type="bibr" rid="R12">12</xref>&#x02013;<xref ref-type="bibr" rid="R14">14</xref>&#x0005d;. Limited data, recall bias, and poor measurement together hinder obtaining accurate effect estimates, due to confounding by unmeasured factors. This concern is especially salient for studies investigating the social patterning of health, precisely because living and working conditions influence health through myriad discrete yet entangled pathways &#x0005b;<xref ref-type="bibr" rid="R08">8</xref>,<xref ref-type="bibr" rid="R15">15</xref>&#x0005d;.</p>
+      <p>Further complicating analysis of the impact of childhood and adult socioeconomic position on health are choices regarding the socioeconomic measure(s) employed &#x0005b;<xref ref-type="bibr" rid="R16">16</xref>&#x02013;<xref ref-type="bibr" rid="R18">18</xref>&#x0005d;. As discussed in several comprehensive review articles &#x0005b;<xref ref-type="bibr" rid="R16">16</xref>&#x02013;<xref ref-type="bibr" rid="R18">18</xref>&#x0005d;, considerable evidence exists demonstrating that different socioeconomic measures&#x02014;e.g., education, occupation, income, wealth, housing tenure, etc.&#x02014;are not simply &#x0201c;exchangeable&#x0201d; with each other and instead often yield different estimates of the magnitude of the socioeconomic gradient and affect health by independent as well as correlated pathways. For example, while education has often been valued as a socioeconomic measure precisely because, once achieved, it is not subject to reverse causation (e.g., poorer health leading to lower income), it also has been shown to be insensitive to subsequent changes in adult socioeconomic position (e.g., income dynamics) that also can affect adult health status &#x0005b;<xref ref-type="bibr" rid="R16">16</xref>&#x02013;<xref ref-type="bibr" rid="R22">22</xref>&#x0005d;. An important implication is that studies concerned with the joint impact of childhood and adult socioeconomic position on health must take into account how their choice of socioeconomic measures may influence their results.</p>
+      <p>Of note, studies of adult twins, and especially monozygotic twins, can usefully address problems of capturing early life circumstances and assessing the contribution of childhood and adult conditions on adult health. This is because monozygotic twins raised together through childhood (a) are tightly matched on both genetic endowment and the socioeconomic circumstances characterizing their gestation and early life and childhood household resources &#x0005b;<xref ref-type="bibr" rid="R04">4</xref>&#x02013;<xref ref-type="bibr" rid="R06">6</xref>&#x0005d;, and (b) are the same biological sex, so they are likely to be accorded the same gender expectations and not have differential treatment or access to household resources because of their gender &#x0005b;<xref ref-type="bibr" rid="R06">6</xref>,<xref ref-type="bibr" rid="R15">15</xref>&#x0005d;. Thus, even without any measurement of childhood conditions, a comparison of adult monozygotic twins who are concordant versus those who are discordant on adult socioeconomic position allows ascertainment of the extent to which socioeconomic position after childhood affects adult health, above and beyond the impact of childhood socioeconomic position. Twin analyses employing diverse socioeconomic measures capturing circumstances earlier versus later in adult life could also potentially yield insight into the impact of cumulative socioeconomic position on health, with interpretation of results for monozygotic twins, including patterns of within-pair variability, aided by comparison to results to same-sex dizygotic twins.</p>
+      <p>Thus, our objective, framed by ecosocial theory and its concern with the lifelong embodiment of social conditions &#x0005b;<xref ref-type="bibr" rid="R15">15</xref>,<xref ref-type="bibr" rid="R23">23</xref>&#x0005d;, was to compare health status among a cohort of monozygotic and dizygotic women twins with shared upbringing (at least until age 14) and concordant versus discordant adult socioeconomic position. Outcomes included biological markers, anthropometric and health outcomes, and health behaviors. We employed data on both adult occupational class and educational level, hypothesizing that the former might capture relevant aspects of socioeconomic position occurring after completion of educational attainment.</p>
+    </sec>
+    <sec id="s2" sec-type="methods">
+      <title>Methods</title>
+      <sec id="s2a">
+        <title>Study Population</title>
+        <p>The study twin pairs were members of the Kaiser Permanente Women Twins Study Examination II, conducted in 1989&#x02013;1990 in Oakland, California, United States &#x0005b;<xref ref-type="bibr" rid="R24">24</xref>&#x0005d;. The Examination I cohort included 434 twin pairs recruited in 1978&#x02013;1979 from a twin registry established in 1974 at the Northern California Kaiser Permanente Medical Care Program. All participants resided in the San Francisco Bay Area at the time of Examination I and were born in or prior to 1960 (mean age, 41 y; range, 18&#x02013;85 y). Zygosity for each pair was determined by analysis of 20 polymorphic loci, such that the probability of misclassification as monozygous was less than 0.001 &#x0005b;<xref ref-type="bibr" rid="R24">24</xref>&#x0005d;.</p>
+        <p>For Examination II (1989&#x02013;1990), original cohort members were sent a self-administered questionnaire on their health and sociodemographic characteristics plus an invitation to return for a physical exam &#x0005b;<xref ref-type="bibr" rid="R24">24</xref>&#x0005d;. Cohort retention was high: Only 72 women (8.3&#x00025;) did not respond, of whom 36 were deceased. Among the 796 respondents, only 87 (10.9&#x00025;) did not return for a physical exam. After additionally excluding five women whose twin was a nonrespondent, the Examination II cohort included 352 twin pairs (58&#x00025; monozygotic and 42&#x00025; dizygotic), representing 81.1&#x00025; of the original cohort. Enrollment and study of the twins in both cohorts was approved by the Kaiser Permanente Medical Care Program, Northern California Region, Institutional Review board; analyses for this investigation were additionally approved by the Harvard School of Public Health Human Subjects Committee.</p>
+      </sec>
+      <sec id="s2b">
+        <title>Socioeconomic Data</title>
+        <p>Childhood and adult socioeconomic position were measured at Examination II using a self-administered questionnaire. We employed a modified version of Erik Olin Wright's occupational class schema &#x0005b;<xref ref-type="bibr" rid="R12">12</xref>,<xref ref-type="bibr" rid="R16">16</xref>,<xref ref-type="bibr" rid="R25">25</xref>&#x02013;<xref ref-type="bibr" rid="R27">27</xref>&#x0005d;, analogous to the United Kingdom's newly established National Statistics Socioeconomic Classification system (NS-SEC) &#x0005b;<xref ref-type="bibr" rid="R28">28</xref>&#x0005d;. Distinctions, in order of dominance, were between persons classified as &#x0201c;nonworking class&#x0201d; (NWC; own a business and employ others, self-employed, or supervisory employees), &#x0201c;working class&#x0201d; (WC; nonsupervisory employees), or not in the paid labor force &#x0005b;<xref ref-type="bibr" rid="R12">12</xref>,<xref ref-type="bibr" rid="R16">16</xref>,<xref ref-type="bibr" rid="R25">25</xref>&#x02013;<xref ref-type="bibr" rid="R27">27</xref>&#x0005d;.</p>
+        <p>We defined &#x0201c;childhood household social class&#x0201d; as the occupational class position of the person identified as the head-of-household when the respondent was age 14; we also ascertained the proportion of twins who lived together until at least age 14. We measured adult household social class using a validated, gender-appropriate approach, equal to the most dominant class position, taking into account the usual individual class position of the respondent and her partner or other head-of-household, if any &#x0005b;<xref ref-type="bibr" rid="R16">16</xref>,<xref ref-type="bibr" rid="R25">25</xref>,<xref ref-type="bibr" rid="R26">26</xref>&#x0005d;. Using a gender-neutral approach to measuring household class is increasingly recognized as a more valid means of assessing household socioeconomic position than one which automatically assigns it to either (a) the respondent, whether a woman or man, or (b) the occupation of the adult man in the household (if one is present), given the rise of dual wage-earner households &#x0005b;<xref ref-type="bibr" rid="R16">16</xref>&#x02013;<xref ref-type="bibr" rid="R18">18</xref>,<xref ref-type="bibr" rid="R27">27</xref>&#x02013;<xref ref-type="bibr" rid="R32">32</xref>&#x0005d;. For example, the new UK NS-SEC measure explicitly rejects the prior conventional practice of &#x0201c;males taking precedence over females&#x0201d; when selecting the &#x0201c;household reference person&#x0201d; for assignment of household class, and instead chooses based upon &#x0201c;the person responsible for owning or renting or who is otherwise responsible for the accommodation,&#x0201d; regardless of gender &#x0005b;<xref ref-type="bibr" rid="R29">29</xref>&#x0005d;. We also obtained data on the educational level attained by each twin and their father. No data were available, however, on childhood or adult household income, wealth, or debt, or on the educational level of the mother.</p>
+        <p>Because the twin pairs were matched, by definition, on socioeconomic position in utero through age 14, we categorized twin pairs in relation to adult socioeconomic position. For adult household social class, three types of pairs were possible: two concordant (both WC:WC or NWC:NWC) and one discordant (WC:NWC). For education, the pairs were defined in relation to being concordant or discordant for fewer than 4 y versus 4 y or more of college.</p>
+      </sec>
+      <sec id="s2c">
+        <title>Health Outcome Data</title>
+        <p>The selected health outcomes were chosen because of their well-documented associations with socioeconomic position and because risk could plausibly be affected by both early life and adult circumstances &#x0005b;<xref ref-type="bibr" rid="R08">8</xref>,<xref ref-type="bibr" rid="R09">9</xref>,<xref ref-type="bibr" rid="R25">25</xref>&#x0005d;. Self-report data were analyzed for self-rated health (dichotomized as excellent/good versus fair/poor) and medication use. A validated interviewer-administered questionnaire was used to obtain data on physical activity (kcal per kg per y); this instrument assessed the typical amount of time spent in activities of varying intensity at home, at work, and during recreation &#x0005b;<xref ref-type="bibr" rid="R33">33</xref>&#x0005d;.</p>
+        <p>Data on anthropometric and biological characteristics were obtained by physical examination and laboratory analysis &#x0005b;<xref ref-type="bibr" rid="R24">24</xref>&#x0005d;. Height was recorded to the nearest 0.5 cm, weight was measured to the nearest 0.1 kg, and these data were used to calculate body mass index (BMI, in kg/m<sup>2</sup>). Participants' minimum waist girth was measured using a steel tape at the natural indentation or at a level midway between the iliac crests and the lower edge of the rib cage if no natural indentation was present; hip girth was measured at the level of the greatest protrusion of the buttocks. These measurements were recorded to the nearest 0.5 cm, and the averages of two measures (different by no more than 1 cm) were used to calculate the waist-to-hip ratio (WHR). After participants rested for 5 min, a mercury sphygmomanometer was used to take two measures each of systolic and diastolic blood pressure (seated, right arm); averages of these two measures were used for data analysis. High blood pressure was defined as systolic blood pressure 140 mm Hg or higher, or diastolic blood pressure 90 mm Hg or higher, or taking antihypertensive medication.</p>
+        <p>Blood for lipid and lipoprotein measurement was obtained after participants had fasted overnight. It was collected into tubes containing ethylenediaminetetraacetic acid (EDTA). Total, high-density lipoprotein (HDL), and low-density lipoprotein (LDL) cholesterol were measured by standard methods &#x0005b;<xref ref-type="bibr" rid="R24">24</xref>&#x0005d;. Glucose level (mg/dl &#x0005b;amount &#x000d7; 0.0555 = mmol/l&#x0005d;; measured 2 h post-load) was determined using the glucose oxidase method &#x0005b;<xref ref-type="bibr" rid="R24">24</xref>&#x0005d;; analyses using data on glucose levels excluded the five twin pairs for whom one or both twins had values 300 mg/dl or higher.</p>
+      </sec>
+      <sec id="s2d">
+        <title>Data Analysis</title>
+        <p>First, to establish the analytic cohort, we identified twin pairs for whom we could determine both that they had lived together until at least age 14 and their joint socioeconomic trajectory (<italic>n</italic> = 308 pairs). This analytic cohort excluded 44 twin pairs (21 missing data on duration lived together; one reporting separation prior to age 14; two where one twin said below age 14 and the other age 14 or above; plus 20 pairs for whom the joint data on adult household class was either missing, inconsistent, or not in the labor force). Second, we ascertained the retained twins' sociodemographic and health characteristics. Third, for continuous outcomes, we calculated (a) the mean matched difference for twin pairs discordant on adult socioeconomic position, setting the twin with the most socioeconomic resources as the baseline, so as to determine both the magnitude and direction of differences in the outcomes among these pairs, and (b) the mean matched absolute difference for twin pairs in each socioeconomic stratum, to ascertain the variability of outcomes among the twin pairs both discordant and concordant on adult socioeconomic position. Additionally, for the categorical outcomes, we calculated the kappa statistic and associated 95&#x00025; CI &#x0005b;<xref ref-type="bibr" rid="R34">34</xref>&#x0005d;. We do not report data on the 18 WC:WC twin pairs, because small numbers rendered the parameter estimates uninterpretable. All analyses were done in SAS &#x0005b;<xref ref-type="bibr" rid="R35">35</xref>&#x0005d;.</p>
+      </sec>
+    </sec>
+    <sec id="s3" sec-type="results">
+      <title>Results</title>
+      <p>As shown in <xref ref-type="table" rid="T1">Tables 1</xref> and <xref ref-type="table" rid="T2">2</xref>, the sociodemographic and health characteristics of the full cohort (<italic>n</italic> = 352 pairs) and the analytic cohort (<italic>n</italic> = 308 pairs) were quite similar, with about 40&#x00025; having grown up in working class households and 80&#x00025; in households in which the father had less than a 4-y college education. At Examination II, 32&#x00025; of the twin pairs in the analytic cohort were discordant for adult household occupational class, and 20&#x00025; were discordant for individual college attainment.</p>
+      <p>Results pertain to both the direction and magnitude of the difference in health status among the twin pairs, in relation to both different measures of adult socioeconomic position and zygosity. First, regarding the magnitude of health disparities among monozygotic twins discordant on adult socioeconomic position, for the analyses using data on adult occupational class (<xref ref-type="table" rid="T3">Tables 3</xref> and <xref ref-type="table" rid="T4">4</xref>), the WC twin had significantly higher systolic blood pressure (mean matched difference = 4.54 mm Hg; 95&#x00025; CI, 0.10&#x02013;8.97), diastolic blood pressure (mean matched difference = 3.80 mm Hg; 95&#x00025; CI, 0.44&#x02013;7.17), and LDL cholesterol than her NWC twin (mean matched difference = 7.82 mg/dl &#x0005b;amount &#x000d7; 0.0259 = mmol/l&#x0005d;; 95&#x00025; CI, 1.07&#x02013;14.57). Additionally, among the monozygotic twin pairs, a greater proportion of twin pairs discordant on occupational class were discordant for self-reported health compared to twin pairs concordant on occupational class (27.5&#x00025; versus 6.9&#x00025;; <italic>p</italic> = 0.0178). Poorer health was also more likely to be reported by the working class twin; among the 51 monozygotic pairs discordant on class, the proportion of pairs in which the WC twin reported fair or poor health while her NWC twin reported excellent or good health (17.6&#x00025;) was almost twice that of the converse (9.3&#x00025;, i.e., pairs in which the WC twin reported good or excellent health and the NWC twin reported fair or poor health).</p>
+      <p>By contrast, corresponding analyses using data on educational level (<xref ref-type="table" rid="T5">Tables 5</xref> and <xref ref-type="table" rid="T6">6</xref>) revealed little difference in patterns of health among monozygotic twin pairs discordant on educational attainment. Dizgyotic twins discordant on adult socioeconomic position, whether categorized by occupational class or educational level, likewise did not notably differ on their adult health status (<xref ref-type="table" rid="T3">Tables 3</xref>&#x02013;<xref ref-type="table" rid="T6">6</xref>).</p>
+      <p>Second, regarding the variability in health outcomes among twin pairs in relation to their adult socioeconomic position, the mean matched absolute difference was similar among both monozygotic twins who were discordant and concordant on occupational class, and also was similar among dizygotic twins discordant and concordant on occupational class (<xref ref-type="table" rid="T3">Tables 3</xref> and <xref ref-type="table" rid="T4">4</xref>). Within occupational class strata, however, for all the continuous outcomes other than diastolic blood pressure, the magnitude of variability typically was greater for the dizygotic than the monozygotic twin pairs (<xref ref-type="table" rid="T3">Tables 3</xref> and <xref ref-type="table" rid="T4">4</xref>). Similar results were obtained for analyses based on educational level (<xref ref-type="table" rid="T5">Tables 5</xref> and <xref ref-type="table" rid="T6">6</xref>), with some important exceptions. Specifically, for several outcomes among the monozygotic twins, especially average systolic and diastolic blood pressure, post-load glucose, and physical exercise, variability was greatest among twin pairs in which both had fewer than 4 y of college, intermediate among discordant pairs, and least among those where both had 4 y of college or more.</p>
+    </sec>
+    <sec id="s4" sec-type="discussion">
+      <title>Discussion</title>
+      <p>Our study provides novel evidence suggesting that correlations in health outcomes among adult women twin pairs who lived together through childhood vary by their subsequent socioeconomic position, with results sensitive to choice of socioeconomic measure. Although small numbers limit precision of estimates, cardiovascular factors differed more among twins who were discordant on adult occupation class than twin pairs concordant on being professionals, and, within twin pairs discordant on occupational class, the working-class twin typically fared worse than the professional twin. These patterns were much weaker or not evident for analyses using data on educational attainment. Together, these results, combined with our prior research showing that the twins who experienced cumulative deprivation had the worst health &#x0005b;<xref ref-type="bibr" rid="R26">26</xref>&#x0005d;, lend additional support to the hypothesis that cumulative experiences across the lifecourse, including those after adolescence and after completion of educational attainment, and not just early life experiences, shape adult health &#x0005b;<xref ref-type="bibr" rid="R08">8</xref>,<xref ref-type="bibr" rid="R09">9</xref>&#x0005d;.</p>
+      <p>Additionally, the greater magnitude of variability in outcomes among dizygotic compared to monozygotic twins within the same socioeconomic strata is what would be expected, given the tighter matching on genetic endowment among the monozygotic twins &#x0005b;<xref ref-type="bibr" rid="R03">3</xref>&#x02013;<xref ref-type="bibr" rid="R05">5</xref>&#x0005d;. However, the suggestive finding of greater magnitude of variability, within both the monozygotic and dizygotic twins, among pairs with the least education compared to the most education, especially for the cardiovascular-related results, has not to our knowledge previously been reported. Given that low educational attainment is highly correlated with low socioeconomic resources during childhood &#x0005b;<xref ref-type="bibr" rid="R16">16</xref>&#x02013;<xref ref-type="bibr" rid="R18">18</xref>&#x0005d;, our results lend tentative support to the hypothesis that increased variability of physiological traits such as blood pressure may be positively associated with greater early-life and cumulative exposure to economic deprivation &#x0005b;<xref ref-type="bibr" rid="R36">36</xref>&#x0005d;. A related body of research suggests that chronic exposure to social stressors associated with socioeconomic deprivation may result in repeated activation&#x02014;and ultimately harmful dysregulation&#x02014;of physiological systems that respond to stress, thereby increasing risk of elevated blood pressure, insulin resistance, and visceral fat deposition and thus risk of cardiovascular disease, obesity, and diabetes &#x0005b;<xref ref-type="bibr" rid="R37">37</xref>&#x02013;<xref ref-type="bibr" rid="R39">39</xref>&#x0005d;.</p>
+      <p>Study limitations include
+        <list list-type="alpha-lower" id="L1">
+          <list-item><p>the relatively small number of twin pairs (albeit similar to other twin studies &#x0005b;<xref ref-type="bibr" rid="R03">3</xref>,<xref ref-type="bibr" rid="R11">11</xref>&#x0005d;);</p></list-item>
+          <list-item><p>lack of data on detailed occupational class position over time and on age at obtaining a college degree, plus prior or current data on income, poverty, wealth, and debt;</p></list-item>
+          <list-item><p>lack of data on gestational age, birth weight, birth order, and whether the twins had shared or separate chorions and amniotic sacs &#x0005b;<xref ref-type="bibr" rid="R02">2</xref>,<xref ref-type="bibr" rid="R07">7</xref>,<xref ref-type="bibr" rid="R11">11</xref>,<xref ref-type="bibr" rid="R40">40</xref>&#x0005d;;</p></list-item>
+          <list-item><p>lack of data on differences in the twins' childhood experiences and exposures (e.g., differential treatment accorded to first- versus second-born twins, and to monozygotic versus dizygotic twins &#x0005b;<xref ref-type="bibr" rid="R06">6</xref>&#x0005d;); and</p></list-item>
+          <list-item><p>lack of data on male twins; in addition, the small number of women twins who were concordant on adult working class position limits generalizability (but not internal validity) of results.</p></list-item>
+        </list>
+      Most studies assessing the impact of childhood socioeconomic position on health, however, have relied on occupational and sometimes educational data &#x0005b;<xref ref-type="bibr" rid="R08">8</xref>,<xref ref-type="bibr" rid="R09">9</xref>,<xref ref-type="bibr" rid="R26">26</xref>,<xref ref-type="bibr" rid="R41">41</xref>&#x02013;<xref ref-type="bibr" rid="R46">46</xref>&#x0005d;, reflecting difficulties in obtaining income data across the lifecourse &#x0005b;<xref ref-type="bibr" rid="R16">16</xref>&#x02013;<xref ref-type="bibr" rid="R18">18</xref>&#x0005d;.</p>
+      <p>By contrast, strengths of our study include:
+        <list id="L2" list-type="alpha-lower">
+          <list-item><p>biological confirmation of zygosity;</p></list-item>
+          <list-item><p>identical gestational age;</p></list-item>
+          <list-item><p>identical biological sex, relevant to gender expectations and gendered exposures (more similar for same- versus opposite-sex twins &#x0005b;<xref ref-type="bibr" rid="R05">5</xref>,<xref ref-type="bibr" rid="R06">6</xref>&#x0005d;);</p></list-item>
+          <list-item><p>data on age until which the twins lived together;</p></list-item>
+          <list-item><p>use of a validated and gender-appropriate household occupational class measure, plus data on education; and </p></list-item>
+          <list-item><p>measurement of anthropometric and physiologic characteristics, not just self-reported health.</p></list-item>
+        </list>
+       Moreover, by focusing on postadolescence divergence of socioeconomic position, the study avoided concerns affecting comparisons of twins raised separately versus together, e.g., difficulties in assessing similarities versus differences of the family of origin versus adoptive family &#x0005b;<xref ref-type="bibr" rid="R04">4</xref>&#x02013;<xref ref-type="bibr" rid="R06">6</xref>&#x0005d;. A recent analysis of United Kingdom twins' earnings in relation to educational level additionally underscores the utility of using twin analyses to gauge the impact of childhood and adult socioeconomic conditions, at the individual and the household level, on adult economic and health-related outcomes (e.g., smoking) &#x0005b;<xref ref-type="bibr" rid="R47">47</xref>&#x0005d;.</p>
+      <p>Overall, results of this study are in accord with other research suggesting that cumulative exposures related to socioeconomic position, not only genetic inheritance and early life experiences, shape adult health &#x0005b;8&#x02013;11,26,41&#x02013;46,48&#x0005d;. As with our findings, these studies typically have documented the strongest joint impacts for outcomes pertaining to cardiovascular health &#x0005b;8&#x02013;11,26,41&#x02013;46,48&#x0005d;. Unlike prior research, however, the present study newly employed a same-gender twin design, affording comparatively tight matching on life circumstances through early adolescence, with monozygotic twins additionally matched on genetic inheritance, thereby circumventing important concerns raised about likely unmeasured confounders affecting results of prior studies dependent upon adult recall of&#x02014;and limited data on&#x02014;childhood socioeconomic position. Even so, generalizability of results to nontwins could be hampered if twins differ systematically from nontwins on factors influencing associations between socioeconomic position and adult health, as perhaps related to maternal and zygotic characteristics relevant to risk of monozygotic or dizygotic twinning or to exposures contingent upon being a twin in utero (e.g., down-regulation of growth) &#x0005b;<xref ref-type="bibr" rid="R02">2</xref>,<xref ref-type="bibr" rid="R04">4</xref>&#x02013;<xref ref-type="bibr" rid="R07">7</xref>,<xref ref-type="bibr" rid="R49">49</xref>&#x02013;<xref ref-type="bibr" rid="R52">52</xref>&#x0005d;.</p>
+      <p>In summary, creative use of social and biological twin data concerning both social and biological aspects of twinship &#x0005b;<xref ref-type="bibr" rid="R01">1</xref>&#x02013;<xref ref-type="bibr" rid="R03">3</xref>,<xref ref-type="bibr" rid="R06">6</xref>&#x0005d; has the potential to inform current debates about the impact of lifecourse socioeconomic position on health. Suggesting such investigations could have public health import, prior research has estimated that a reduction of 2 mm Hg in the average diastolic blood pressure in the United States&#x02014;i.e., about half the difference we observed in the comparison of working class to nonworking class monozygotic twins&#x02014;would translate to a 17&#x00025; decrease in hypertension, a 6&#x00025; reduction in coronary heart disease, and a 15&#x00025; reduction in risk of stroke and transient ischemic attacks &#x0005b;<xref ref-type="bibr" rid="R53">53</xref>&#x0005d;. Given the longstanding fascination with twins &#x0005b;<xref ref-type="bibr" rid="R01">1</xref>&#x02013;<xref ref-type="bibr" rid="R03">3</xref>,<xref ref-type="bibr" rid="R06">6</xref>&#x0005d;, if additional and larger twin studies of economically diverse women and men twins confirmed the relevance of cumulative and intergenerational lifetime socioeconomic resources for health, and were also able to include a wider array of socioeconomic measures (e.g., income, wealth, debt, and mother's education) and data on gestational age and birth weight, the evidence would likely have high policy salience, plus importantly enhance understanding of how embodiment of societal conditions shapes population patterns of health, disease, and well-being &#x0005b;<xref ref-type="bibr" rid="R15">15</xref>,<xref ref-type="bibr" rid="R23">23</xref>,<xref ref-type="bibr" rid="R54">54</xref>&#x0005d;.</p>
+      <boxed-text id="BX1" position="float">
+        <title>Patient Summary</title>
+        <sec id="sb1a">
+          <title>Background</title>
+          <p>Important controversies exist about the extent to which people's health status as adults is shaped by their living conditions in early life compared to adulthood. These debates have important policy implications, with regard to directing resources for improving health: should they be focused on children, on adults, or both? One obstacle to determining the relative influence of early life compared to adulthood on health is a lack of sufficient high-quality data on childhood and adult socioeconomic position and adult health status. Twins research can be used to answer this question, because for twins raised together their social class early in life (here defined as before age 14) will be the same, and study of monozygotic (identical) twins further allows researchers to look at the impact of living conditions on people with the same genetic background.</p>
+        </sec>
+        <sec id="sb1b">
+          <title>What Did the Researchers Do?</title>
+          <p>They looked at how much education each twin had and their social class in later life, and they analyzed these in relation to diverse health outcomes (blood pressure, cholesterol, body mass index) in 308 pairs of female twins recruited in California.</p>
+        </sec>
+        <sec id="sb1c">
+          <title>What Did the Researchers Find?</title>
+          <p>They found that the monozygotic twins who differed later in life in their social class tended to have differences in health, with the working-class twin having higher blood pressure and higher cholesterol than her professional counterpart. By contrast, differences in education made no difference to these measures of health.</p>
+        </sec>
+        <sec id="sb1d">
+          <title>What Do These Findings Mean?</title>
+          <p>It is already believed that social class in children may affect later health; these results suggest that even individuals who had the same social class in childhood may have different health because of adult social class, including their living conditions after completing their educations. The implication is that interventions to eliminate social inequalities in health must take into account adult as well as childhood living conditions.</p>
+        </sec>
+        <sec id="sb1e">
+          <title>Where Can I Get More Information?</title>
+          <p>There are many twin sites on the Web. One site with many links, including to registries, is that of the International Society for Twin Studies. <ext-link ext-link-type="uri" xlink:href="http://www.ists.qimr.edu.au/links.html">http://www.ists.qimr.edu.au/links.html</ext-link></p>
+        </sec>
+      </boxed-text>
+    </sec>
+  </body>
+  <back>
+    <ack>
+      <p>The source of funding was the National Institutes of Health, National Heart, Lung, and Blood Institute (1 R29 HL51151&#x02013;01). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</p>
+    </ack>
+    <ref-list>
+      <title>References</title>
+      <ref id="R01">
+        <nlm-citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hirsch</surname>
+              <given-names>ND</given-names>
+            </name>
+          </person-group>
+          <source>Twins: Heredity and environment</source>
+          <year>1930</year>
+          <publisher-loc>Cambridge (Massachusetts)</publisher-loc>
+          <publisher-name>Harvard University Press</publisher-name>
+          <page-count count="158"/>
+        </nlm-citation>
+      </ref>
+      <ref id="R02">
+        <nlm-citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gedda</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <source>Twins in history and science. Translated by Marco Milani-Comparetti. Foreword by Robert M. Stecher</source>
+          <year>1961</year>
+          <publisher-loc>Springfield (Illinois)</publisher-loc>
+          <publisher-name>CC Thomas</publisher-name>
+          <page-count count="240"/>
+        </nlm-citation>
+      </ref>
+      <ref id="R03">
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Boomsma</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Busjahn</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Peltonen</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title>Classical twin studies and beyond</article-title>
+          <source>Nat Rev Genet</source>
+          <year>2002</year>
+          <volume>3</volume>
+          <fpage>872</fpage>
+          <lpage>882</lpage>
+          <pub-id pub-id-type="pmid">12415317</pub-id>
+        </nlm-citation>
+      </ref>
+      <ref id="R04">
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lichtenstein</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Harris</surname>
+              <given-names>JR</given-names>
+            </name>
+            <name>
+              <surname>Pedersen</surname>
+              <given-names>NL</given-names>
+            </name>
+            <name>
+              <surname>McClearn</surname>
+              <given-names>GE</given-names>
+            </name>
+          </person-group>
+          <article-title>Socioeconomic status and physical health, how are they related? An empirical study based on twins reared apart and twins reared together</article-title>
+          <source>Soc Sci Med</source>
+          <year>1993</year>
+          <volume>36</volume>
+          <fpage>441</fpage>
+          <lpage>450</lpage>
+          <pub-id pub-id-type="pmid">8434269</pub-id>
+        </nlm-citation>
+      </ref>
+      <ref id="R05">
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Horwitz</surname>
+              <given-names>AV</given-names>
+            </name>
+            <name>
+              <surname>Videon</surname>
+              <given-names>TM</given-names>
+            </name>
+            <name>
+              <surname>Schmitz</surname>
+              <given-names>MF</given-names>
+            </name>
+            <name>
+              <surname>Davis</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>Rethinking twins and environments: Possible social sources for assumed genetic influences in twin research</article-title>
+          <source>J Health Soc Behav</source>
+          <year>2003</year>
+          <volume>44</volume>
+          <fpage>111</fpage>
+          <lpage>129</lpage>
+          <pub-id pub-id-type="pmid">12866384</pub-id>
+        </nlm-citation>
+      </ref>
+      <ref id="R06">
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Stewart</surname>
+              <given-names>EA</given-names>
+            </name>
+          </person-group>
+          <article-title>Towards the social analysis of twinship</article-title>
+          <source>Br J Sociol</source>
+          <year>2000</year>
+          <volume>51</volume>
+          <fpage>719</fpage>
+          <lpage>737</lpage>
+          <pub-id pub-id-type="pmid">11140892</pub-id>
+        </nlm-citation>
+      </ref>
+      <ref id="R07">
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Machin</surname>
+              <given-names>GA</given-names>
+            </name>
+          </person-group>
+          <article-title>Some causes of genotypic and phenotypic discordance in monozygotic twin pairs</article-title>
+          <source>Am J Med Genet</source>
+          <year>1996</year>
+          <volume>61</volume>
+          <fpage>216</fpage>
+          <lpage>228</lpage>
+          <pub-id pub-id-type="pmid">8741866</pub-id>
+        </nlm-citation>
+      </ref>
+      <ref id="R08">
+        <nlm-citation citation-type="book">
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Davey</surname>
+              <given-names>Smith G</given-names>
+            </name>
+          </person-group>
+          <source>Health inequalities: Lifecourse approaches</source>
+          <year>2003</year>
+          <publisher-loc>Bristol, United Kingdom</publisher-loc>
+          <publisher-name>Policy Press</publisher-name>
+          <page-count count="548"/>
+        </nlm-citation>
+      </ref>
+      <ref id="R09">
+        <nlm-citation citation-type="book">
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Kuh</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Ben-Shlomo</surname>
+              <given-names>Y</given-names>
+            </name>
+          </person-group>
+          <source>A lifecourse approach to chronic disease epidemiology: Tracing the origins of ill-health from early to adult life. 2<sup>nd</sup> ed</source>
+          <year>2004</year>
+          <publisher-loc>Oxford</publisher-loc>
+          <publisher-name>Oxford University Press</publisher-name>
+          <page-count count="473"/>
+        </nlm-citation>
+      </ref>
+      <ref id="R10">
+        <nlm-citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Barker</surname>
+              <given-names>DJP</given-names>
+            </name>
+          </person-group>
+          <source>Mothers, babies, and health in later life. 2<sup>nd</sup> ed</source>
+          <year>1998</year>
+          <publisher-loc>Edinburgh</publisher-loc>
+          <publisher-name>Churchill-Livingston</publisher-name>
+          <page-count count="217"/>
+        </nlm-citation>
+      </ref>
+      <ref id="R11">
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Leon</surname>
+              <given-names>DA</given-names>
+            </name>
+          </person-group>
+          <article-title>The foetal origins of adult disease: Interpreting the evidence from twin studies</article-title>
+          <source>Twin Res</source>
+          <year>2001</year>
+          <volume>4</volume>
+          <fpage>321</fpage>
+          <lpage>326</lpage>
+          <pub-id pub-id-type="pmid">11869483</pub-id>
+        </nlm-citation>
+      </ref>
+      <ref id="R12">
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Krieger</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Okamoto</surname>
+              <given-names>A</given-names>
+            </name>
+            <name>
+              <surname>Selby</surname>
+              <given-names>JV</given-names>
+            </name>
+          </person-group>
+          <article-title>Adult female twins' recall of childhood social class and father's education: A validation study for public health research</article-title>
+          <source>Am J Epidemiol</source>
+          <year>1998</year>
+          <volume>147</volume>
+          <fpage>704</fpage>
+          <lpage>708</lpage>
+          <pub-id pub-id-type="pmid">9554610</pub-id>
+        </nlm-citation>
+      </ref>
+      <ref id="R13">
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Berney</surname>
+              <given-names>LR</given-names>
+            </name>
+            <name>
+              <surname>Blane</surname>
+              <given-names>DB</given-names>
+            </name>
+          </person-group>
+          <article-title>Collecting retrospective data: Accuracy of recall after 50 years judged against historical records</article-title>
+          <source>Soc Sci Med</source>
+          <year>1997</year>
+          <volume>45</volume>
+          <fpage>1519</fpage>
+          <lpage>1525</lpage>
+          <pub-id pub-id-type="pmid">9351141</pub-id>
+        </nlm-citation>
+      </ref>
+      <ref id="R14">
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lin</surname>
+              <given-names>SS</given-names>
+            </name>
+            <name>
+              <surname>Glaser</surname>
+              <given-names>SL</given-names>
+            </name>
+            <name>
+              <surname>Stewart</surname>
+              <given-names>SL</given-names>
+            </name>
+          </person-group>
+          <article-title>Reliability of self-reported reproductive factors and childhood social class indicators in a case-control study in women</article-title>
+          <source>Ann Epidemiol</source>
+          <year>2002</year>
+          <volume>12</volume>
+          <fpage>242</fpage>
+          <lpage>247</lpage>
+          <pub-id pub-id-type="pmid">11988412</pub-id>
+        </nlm-citation>
+      </ref>
+      <ref id="R15">
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Krieger</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Davey Smith</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <article-title>Bodies count and body counts: Social epidemiology and embodying inequality</article-title>
+          <source>Epidemiol Rev</source>
+          <year>2004</year>
+          <volume>26</volume>
+          <fpage>92</fpage>
+          <lpage>103</lpage>
+          <pub-id pub-id-type="pmid">15234950</pub-id>
+        </nlm-citation>
+      </ref>
+      <ref id="R16">
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Krieger</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Williams</surname>
+              <given-names>DR</given-names>
+            </name>
+            <name>
+              <surname>Moss</surname>
+              <given-names>NE</given-names>
+            </name>
+          </person-group>
+          <article-title>Measuring social class in US public health research: Concepts, methodologies, and guidelines</article-title>
+          <source>Annu Rev Public Health</source>
+          <year>1997</year>
+          <volume>18</volume>
+          <fpage>341</fpage>
+          <lpage>378</lpage>
+          <pub-id pub-id-type="pmid">9143723</pub-id>
+        </nlm-citation>
+      </ref>
+      <ref id="R17">
+        <nlm-citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lynch</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Kaplan</surname>
+              <given-names>G</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Berkman</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Kawachi</surname>
+              <given-names>I</given-names>
+            </name>
+          </person-group>
+          <article-title>Socioeconomic position</article-title>
+          <source>Social epidemiology</source>
+          <year>2000</year>
+          <publisher-loc>Oxford</publisher-loc>
+          <publisher-name>Oxford University Press</publisher-name>
+          <fpage>13</fpage>
+          <lpage>35</lpage>
+        </nlm-citation>
+      </ref>
+      <ref id="R18">
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Berkman</surname>
+              <given-names>LF</given-names>
+            </name>
+            <name>
+              <surname>Macintyre</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>The measurement of social class in health studies: Old measures and new formulations</article-title>
+          <source>IARC Sci Publ</source>
+          <year>1997</year>
+          <volume>138</volume>
+          <fpage>51</fpage>
+          <lpage>64</lpage>
+          <pub-id pub-id-type="pmid">9353663</pub-id>
+        </nlm-citation>
+      </ref>
+      <ref id="R19">
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Davey Smith</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Hart</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Hole</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>MacKinnon</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Gillis</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>Education and occupational social class: Which is the more important indicator of mortality risk?</article-title>
+          <source>J Epidemiol Community Health</source>
+          <year>1998</year>
+          <volume>52</volume>
+          <fpage>153</fpage>
+          <lpage>160</lpage>
+          <pub-id pub-id-type="pmid">9616419</pub-id>
+        </nlm-citation>
+      </ref>
+      <ref id="R20">
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Backlund</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Sorlie</surname>
+              <given-names>PD</given-names>
+            </name>
+            <name>
+              <surname>Johnson</surname>
+              <given-names>NJ</given-names>
+            </name>
+          </person-group>
+          <article-title>A comparison of the relationships of education and income with mortality: The National Longitudinal Mortality Study</article-title>
+          <source>Soc Sci Med</source>
+          <year>1999</year>
+          <volume>49</volume>
+          <fpage>1373</fpage>
+          <lpage>1384</lpage>
+          <pub-id pub-id-type="pmid">10509827</pub-id>
+        </nlm-citation>
+      </ref>
+      <ref id="R21">
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Duncan</surname>
+              <given-names>GJ</given-names>
+            </name>
+            <name>
+              <surname>Daly</surname>
+              <given-names>MC</given-names>
+            </name>
+            <name>
+              <surname>McDonough</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Williams</surname>
+              <given-names>DR</given-names>
+            </name>
+          </person-group>
+          <article-title>Optimal indicators of socioeconomic status for health research</article-title>
+          <source>Am J Public Health</source>
+          <year>2002</year>
+          <volume>92</volume>
+          <fpage>1151</fpage>
+          <lpage>1157</lpage>
+          <pub-id pub-id-type="pmid">12084700</pub-id>
+        </nlm-citation>
+      </ref>
+      <ref id="R22">
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Macintyre</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>McKay</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Der</surname>
+              <given-names>G</given-names>
+            </name>
+            <name>
+              <surname>Hiscock</surname>
+              <given-names>R</given-names>
+            </name>
+          </person-group>
+          <article-title>Socio-economic position and health: What you observe depends on how you measure it</article-title>
+          <source>J Public Health Med</source>
+          <year>2003</year>
+          <volume>25</volume>
+          <fpage>288</fpage>
+          <lpage>294</lpage>
+          <pub-id pub-id-type="pmid">14747587</pub-id>
+        </nlm-citation>
+      </ref>
+      <ref id="R23">
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Krieger</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>Theories for social epidemiology in the 21<sup>st</sup> century: An ecosocial perspective</article-title>
+          <source>Int J Epidemiol</source>
+          <year>2001</year>
+          <volume>30</volume>
+          <fpage>668</fpage>
+          <lpage>677</lpage>
+          <pub-id pub-id-type="pmid">11511581</pub-id>
+        </nlm-citation>
+      </ref>
+      <ref id="R24">
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mayer</surname>
+              <given-names>EJ</given-names>
+            </name>
+            <name>
+              <surname>Newman</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Austin</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Zhang</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Quesenberry</surname>
+              <given-names>CP</given-names>
+            </name>
+          </person-group>
+          <article-title>Genetic and environmental influences on insulin levels and the insulin resistance syndrome: An analysis of women twins</article-title>
+          <source>Am J Epidemiol</source>
+          <year>1996</year>
+          <volume>143</volume>
+          <fpage>323</fpage>
+          <lpage>332</lpage>
+          <pub-id pub-id-type="pmid">8633616</pub-id>
+        </nlm-citation>
+      </ref>
+      <ref id="R25">
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Krieger</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>JT</given-names>
+            </name>
+            <name>
+              <surname>Selby</surname>
+              <given-names>JV</given-names>
+            </name>
+          </person-group>
+          <article-title>Comparing individual-based and household-based measures of social class to assess class inequalities in women's health: A methodological study of 684 US women</article-title>
+          <source>J Epidemiol Community Health</source>
+          <year>1999</year>
+          <volume>53</volume>
+          <fpage>612</fpage>
+          <lpage>623</lpage>
+          <pub-id pub-id-type="pmid">10616673</pub-id>
+        </nlm-citation>
+      </ref>
+      <ref id="R26">
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Krieger</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Chen</surname>
+              <given-names>JT</given-names>
+            </name>
+            <name>
+              <surname>Selby</surname>
+              <given-names>JV</given-names>
+            </name>
+          </person-group>
+          <article-title>Class inequalities in women's health: Combined impact of childhood and adult social class&#x02014;A study of 630 US women</article-title>
+          <source>Public Health</source>
+          <year>2001</year>
+          <volume>115</volume>
+          <fpage>175</fpage>
+          <lpage>185</lpage>
+          <pub-id pub-id-type="pmid">11429712</pub-id>
+        </nlm-citation>
+      </ref>
+      <ref id="R27">
+        <nlm-citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wright</surname>
+              <given-names>EO</given-names>
+            </name>
+          </person-group>
+          <source>Class counts: Comparative studies in class analysis</source>
+          <year>1997</year>
+          <publisher-loc>New York</publisher-loc>
+          <publisher-name>Cambridge University Press</publisher-name>
+          <page-count count="576"/>
+        </nlm-citation>
+      </ref>
+      <ref id="R28">
+        <nlm-citation citation-type="book">
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Rose</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Pevalin</surname>
+              <given-names>DJ</given-names>
+            </name>
+          </person-group>
+          <source>A researcher's guide to the national statistics socio-economic classification</source>
+          <year>2003</year>
+          <publisher-loc>London</publisher-loc>
+          <publisher-name>Sage Publications</publisher-name>
+          <page-count count="304"/>
+        </nlm-citation>
+      </ref>
+      <ref id="R29">
+        <nlm-citation citation-type="journal">
+          <collab>National Statistics (UK)</collab>
+          <source>Household level NS-SEC</source>
+          <year>2002</year>
+          <comment>Available: <ext-link ext-link-type="uri" xlink:href="http://www.statistics.gov.uk/methods_quality/ns_sec/household_level.as">http://www.statistics.gov.uk/methods_quality/ns_sec/household_level.as</ext-link>. Accessed 19 December 2004</comment>
+        </nlm-citation>
+      </ref>
+      <ref id="R30">
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sorensen</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Women, family and class</article-title>
+          <source>Annu Rev Sociol</source>
+          <year>1994</year>
+          <volume>20</volume>
+          <fpage>27</fpage>
+          <lpage>47</lpage>
+        </nlm-citation>
+      </ref>
+      <ref id="R31">
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Krieger</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <article-title>Women and social class: A methodological study comparing individual, household, and census measures as predictors of black/white differences in reproductive history</article-title>
+          <source>J Epidemiol Community Health</source>
+          <year>1991</year>
+          <volume>45</volume>
+          <fpage>35</fpage>
+          <lpage>42</lpage>
+          <pub-id pub-id-type="pmid">2045742</pub-id>
+        </nlm-citation>
+      </ref>
+      <ref id="R32">
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Arber</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Class, paid employment and family roles: Making sense of structural disadvantage, gender, and health status</article-title>
+          <source>Soc Sci Med</source>
+          <year>1991</year>
+          <volume>32</volume>
+          <fpage>425</fpage>
+          <lpage>436</lpage>
+          <pub-id pub-id-type="pmid">2024158</pub-id>
+        </nlm-citation>
+      </ref>
+      <ref id="R33">
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sidney</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Jacobs</surname>
+              <given-names>DR</given-names>
+            </name>
+            <name>
+              <surname>Haskell</surname>
+              <given-names>WL</given-names>
+            </name>
+            <name>
+              <surname>Armstrong</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>Dimicco</surname>
+              <given-names>A</given-names>
+            </name>
+          </person-group>
+          <article-title>Comparison of two methods of assessing physical activity in the Coronary Artery Risk Development in Young Adults (CARDIA) Study</article-title>
+          <source>Am J Epidemiol</source>
+          <year>1991</year>
+          <volume>133</volume>
+          <fpage>1231</fpage>
+          <lpage>1245</lpage>
+          <pub-id pub-id-type="pmid">2063831</pub-id>
+        </nlm-citation>
+      </ref>
+      <ref id="R34">
+        <nlm-citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Fleiss</surname>
+              <given-names>JL</given-names>
+            </name>
+          </person-group>
+          <source>Statistical methods for rates and proportions. 3rd edition</source>
+          <year>2003</year>
+          <publisher-loc>Hoboken</publisher-loc>
+          <publisher-name>J Wiley</publisher-name>
+          <page-count count="760"/>
+        </nlm-citation>
+      </ref>
+      <ref id="R35">
+        <nlm-citation citation-type="journal">
+          <collab>SAS Institute.</collab>
+          <article-title>SAS 9.</article-title>
+          <comment> Available: <ext-link ext-link-type="uri" xlink:href="http://support.sas.com/software/index.htm">http://support.sas.com/software/index.htm</ext-link>. Accessed 10 April 2005</comment>
+        </nlm-citation>
+      </ref>
+      <ref id="R36">
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Himmelstein</surname>
+              <given-names>DU</given-names>
+            </name>
+            <name>
+              <surname>Levins</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Woolhandler</surname>
+              <given-names>S</given-names>
+            </name>
+          </person-group>
+          <article-title>Beyond our means: Patterns of variability of physiological traits</article-title>
+          <source>Int J Health Serv</source>
+          <year>1990</year>
+          <volume>20</volume>
+          <fpage>115</fpage>
+          <lpage>124</lpage>
+          <pub-id pub-id-type="pmid">2307551</pub-id>
+        </nlm-citation>
+      </ref>
+      <ref id="R37">
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>McEwen</surname>
+              <given-names>BS</given-names>
+            </name>
+          </person-group>
+          <article-title>Protective and damaging effects of stress mediators: Allostatis and allostatic load</article-title>
+          <source>New Engl J Med</source>
+          <year>1998</year>
+          <volume>338</volume>
+          <fpage>171</fpage>
+          <lpage>179</lpage>
+          <pub-id pub-id-type="pmid">9428819</pub-id>
+        </nlm-citation>
+      </ref>
+      <ref id="R38">
+        <nlm-citation citation-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Sapolsky</surname>
+              <given-names>RM</given-names>
+            </name>
+          </person-group>
+          <source>Why zebras don't get ulcers. 3<sup>rd</sup> ed</source>
+          <year>2004</year>
+          <publisher-loc>New York</publisher-loc>
+          <publisher-name>Henry Holt</publisher-name>
+          <page-count count="434"/>
+        </nlm-citation>
+      </ref>
+      <ref id="R39">
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brunner</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <person-group person-group-type="author">
+            <name>
+              <surname>Berkman</surname>
+              <given-names>L</given-names>
+            </name>
+            <name>
+              <surname>Kawachi</surname>
+              <given-names>I</given-names>
+            </name>
+          </person-group>
+          <article-title>Toward a new social biology</article-title>
+          <source>Social epidemiology</source>
+          <year>2000</year>
+          <publisher-loc>New York</publisher-loc>
+          <publisher-name>Oxford University Press</publisher-name>
+          <fpage>301</fpage>
+          <lpage>331</lpage>
+        </nlm-citation>
+      </ref>
+      <ref id="R40">
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Swerdlow</surname>
+              <given-names>AJ</given-names>
+            </name>
+            <name>
+              <surname>De Stavola</surname>
+              <given-names>B</given-names>
+            </name>
+            <name>
+              <surname>Maconochie</surname>
+              <given-names>N</given-names>
+            </name>
+            <name>
+              <surname>Siskind</surname>
+              <given-names>V</given-names>
+            </name>
+          </person-group>
+          <article-title>A population-based study of cancer risk in twins: Relationships to birth order and sexes of the twin pair</article-title>
+          <source>Int J Cancer</source>
+          <year>1996</year>
+          <volume>67</volume>
+          <fpage>472</fpage>
+          <lpage>478</lpage>
+          <pub-id pub-id-type="pmid">8759603</pub-id>
+        </nlm-citation>
+      </ref>
+      <ref id="R41">
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Heslop</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>GD</given-names>
+            </name>
+            <name>
+              <surname>Macleod</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Hart</surname>
+              <given-names>C</given-names>
+            </name>
+          </person-group>
+          <article-title>The socioeconomic position of employed women, risk factors and mortality</article-title>
+          <source>Soc Sci Med</source>
+          <year>2001</year>
+          <volume>53</volume>
+          <fpage>477</fpage>
+          <lpage>485</lpage>
+          <pub-id pub-id-type="pmid">11459398</pub-id>
+        </nlm-citation>
+      </ref>
+      <ref id="R42">
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pensola</surname>
+              <given-names>TH</given-names>
+            </name>
+            <name>
+              <surname>Martikainen</surname>
+              <given-names>P</given-names>
+            </name>
+          </person-group>
+          <article-title>Cumulative social class and mortality from various causes of adult men</article-title>
+          <source>J Epidemiol Community Health</source>
+          <year>2003</year>
+          <volume>57</volume>
+          <fpage>745</fpage>
+          <lpage>751</lpage>
+          <pub-id pub-id-type="pmid">12933784</pub-id>
+        </nlm-citation>
+      </ref>
+      <ref id="R43">
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hart</surname>
+              <given-names>CL</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>GD</given-names>
+            </name>
+            <name>
+              <surname>Blane</surname>
+              <given-names>D</given-names>
+            </name>
+          </person-group>
+          <article-title>Inequalities in mortality by social class measured at 3 stages of the lifecourse</article-title>
+          <source>Am J Public Health</source>
+          <year>1998</year>
+          <volume>88</volume>
+          <fpage>471</fpage>
+          <lpage>474</lpage>
+          <pub-id pub-id-type="pmid">9518987</pub-id>
+        </nlm-citation>
+      </ref>
+      <ref id="R44">
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Langenberg</surname>
+              <given-names>C</given-names>
+            </name>
+            <name>
+              <surname>Hardy</surname>
+              <given-names>R</given-names>
+            </name>
+            <name>
+              <surname>Kuh</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Brunner</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Wadsworth</surname>
+              <given-names>M</given-names>
+            </name>
+          </person-group>
+          <article-title>Central and total obesity in middle aged men and women in relation to lifetime socioeconomic status: evidence from a national birth cohort</article-title>
+          <source>J Epidemiol Community Health</source>
+          <year>2003</year>
+          <volume>57</volume>
+          <fpage>816</fpage>
+          <lpage>822</lpage>
+          <pub-id pub-id-type="pmid">14573589</pub-id>
+        </nlm-citation>
+      </ref>
+      <ref id="R45">
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Wamala</surname>
+              <given-names>SP</given-names>
+            </name>
+            <name>
+              <surname>Lynch</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Kaplan</surname>
+              <given-names>GA</given-names>
+            </name>
+          </person-group>
+          <article-title>Women's exposure to early and later life socioeconomic disadvantage and coronary heart disease risk: The Stockholm Female Coronary Risk Study</article-title>
+          <source>Int J Epidemiol</source>
+          <year>2001</year>
+          <volume>30</volume>
+          <fpage>275</fpage>
+          <lpage>284</lpage>
+          <pub-id pub-id-type="pmid">11369727</pub-id>
+        </nlm-citation>
+      </ref>
+      <ref id="R46">
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Brunner</surname>
+              <given-names>E</given-names>
+            </name>
+            <name>
+              <surname>Shipley</surname>
+              <given-names>MJ</given-names>
+            </name>
+            <name>
+              <surname>Blane</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Smith</surname>
+              <given-names>GD</given-names>
+            </name>
+            <name>
+              <surname>Marmot</surname>
+              <given-names>MG</given-names>
+            </name>
+          </person-group>
+          <article-title>When does cardiovascular risk start? Past and present socioeconomic circumstances and risk factors in adulthood</article-title>
+          <source>J Epidemiol Community Health</source>
+          <year>1999</year>
+          <volume>53</volume>
+          <fpage>757</fpage>
+          <lpage>764</lpage>
+          <pub-id pub-id-type="pmid">10656084</pub-id>
+        </nlm-citation>
+      </ref>
+      <ref id="R47">
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bonjour</surname>
+              <given-names>D</given-names>
+            </name>
+            <name>
+              <surname>Cherkas</surname>
+              <given-names>LF</given-names>
+            </name>
+            <name>
+              <surname>Haskel</surname>
+              <given-names>JE</given-names>
+            </name>
+            <name>
+              <surname>Hawkes</surname>
+              <given-names>DD</given-names>
+            </name>
+            <name>
+              <surname>Spector</surname>
+              <given-names>TD</given-names>
+            </name>
+          </person-group>
+          <article-title>Returns to education: Evidence from U.K. twins</article-title>
+          <source>Am Econ Rev</source>
+          <year>2003</year>
+          <volume>93</volume>
+          <fpage>1799</fpage>
+          <lpage>1812</lpage>
+        </nlm-citation>
+      </ref>
+      <ref id="R48">
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pollitt</surname>
+              <given-names>RA</given-names>
+            </name>
+            <name>
+              <surname>Rose</surname>
+              <given-names>KM</given-names>
+            </name>
+            <name>
+              <surname>Kaufman</surname>
+              <given-names>JS</given-names>
+            </name>
+          </person-group>
+          <article-title>Evaluating the evidence for models of life course socioeconomic factors and cardiovascular outcomes: A systematic review</article-title>
+          <source>BMC Public Health</source>
+          <year>2005</year>
+          <volume>5</volume>
+          <issue>1</issue>
+          <fpage>7</fpage>
+          <pub-id pub-id-type="pmid">15661071</pub-id>
+        </nlm-citation>
+      </ref>
+      <ref id="R49">
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Martin</surname>
+              <given-names>JA</given-names>
+            </name>
+            <name>
+              <surname>Park</surname>
+              <given-names>MM</given-names>
+            </name>
+          </person-group>
+          <article-title>Trends in twin and triplet births: 1980&#x02013;97</article-title>
+          <source>Natl Vital Stat Rep</source>
+          <year>1999</year>
+          <volume>47</volume>
+          <fpage>1</fpage>
+          <lpage>16</lpage>
+        </nlm-citation>
+      </ref>
+      <ref id="R50">
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Alexander</surname>
+              <given-names>GR</given-names>
+            </name>
+            <name>
+              <surname>Kogan</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Martin</surname>
+              <given-names>P</given-names>
+            </name>
+            <name>
+              <surname>Papiernik</surname>
+              <given-names>E</given-names>
+            </name>
+          </person-group>
+          <article-title>What are the fetal growth patterns of singletons, twins, and triplets in the United States?</article-title>
+          <source>Clin Obstet Gynecol</source>
+          <year>1998</year>
+          <volume>41</volume>
+          <fpage>114</fpage>
+          <lpage>125</lpage>
+          <pub-id pub-id-type="pmid">9504230</pub-id>
+        </nlm-citation>
+      </ref>
+      <ref id="R51">
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Andrew</surname>
+              <given-names>T</given-names>
+            </name>
+            <name>
+              <surname>Hart</surname>
+              <given-names>DJ</given-names>
+            </name>
+            <name>
+              <surname>Snieder</surname>
+              <given-names>H</given-names>
+            </name>
+            <name>
+              <surname>de Lange</surname>
+              <given-names>M</given-names>
+            </name>
+            <name>
+              <surname>Spector</surname>
+              <given-names>TD</given-names>
+            </name>
+          </person-group>
+          <article-title>Are twins and singletons comparable? A study of disease-related and lifestyle characteristics in adult women</article-title>
+          <source>Twin Res</source>
+          <year>2001</year>
+          <volume>4</volume>
+          <fpage>464</fpage>
+          <lpage>477</lpage>
+          <pub-id pub-id-type="pmid">11780939</pub-id>
+        </nlm-citation>
+      </ref>
+      <ref id="R52">
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hall</surname>
+              <given-names>JG</given-names>
+            </name>
+          </person-group>
+          <article-title>Twinning</article-title>
+          <source>Lancet</source>
+          <year>2003</year>
+          <volume>362</volume>
+          <fpage>735</fpage>
+          <lpage>743</lpage>
+          <pub-id pub-id-type="pmid">12957099</pub-id>
+        </nlm-citation>
+      </ref>
+      <ref id="R53">
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cook</surname>
+              <given-names>NR</given-names>
+            </name>
+            <name>
+              <surname>Cohen</surname>
+              <given-names>J</given-names>
+            </name>
+            <name>
+              <surname>Hebert</surname>
+              <given-names>PR</given-names>
+            </name>
+            <name>
+              <surname>Taylor</surname>
+              <given-names>JO</given-names>
+            </name>
+            <name>
+              <surname>Hennekens</surname>
+              <given-names>CH</given-names>
+            </name>
+          </person-group>
+          <article-title>Implications of small reductions in diastolic blood pressure for primary prevention</article-title>
+          <source>Arch Intern Med</source>
+          <year>1995</year>
+          <volume>155</volume>
+          <fpage>701</fpage>
+          <lpage>709</lpage>
+          <pub-id pub-id-type="pmid">7695458</pub-id>
+        </nlm-citation>
+      </ref>
+      <ref id="R54">
+        <nlm-citation citation-type="journal">
+          <person-group person-group-type="editor">
+            <name>
+              <surname>Krieger</surname>
+              <given-names>N</given-names>
+            </name>
+          </person-group>
+          <source>Embodying inequality: Epidemiological perspectives</source>
+          <year>2004</year>
+          <publisher-loc>Amityville (New York)</publisher-loc>
+          <publisher-name>Baywood Publishers</publisher-name>
+          <page-count count="545"/>
+        </nlm-citation>
+      </ref>
+    </ref-list>
+    <glossary>
+      <title>Abbreviations</title>
+      <def-list id="DL1">
+        <def-item>
+          <term>BMI</term>
+          <def>
+            <p>body mass index</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>CI</term>
+          <def>
+            <p>confidence interval</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>NWC</term>
+          <def>
+            <p>nonworking class</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>WC</term>
+          <def>
+            <p>working class</p>
+          </def>
+        </def-item>
+        <def-item>
+          <term>WHR</term>
+          <def>
+            <p>waist-to-hip ratio</p>
+          </def>
+        </def-item>
+      </def-list>
+    </glossary>
+    <fn-group>
+      <fn id="FN4" fn-type="other">
+        <p>
+          <bold>Citation:</bold> Krieger N, Chen JT, Coull BA, Selby JV (2005) Lifetime socioeconomic position and twins' health: An analysis of 308 pairs of United States women twins. PLoS Med 2(7): e162.
+        </p>
+      </fn>
+    </fn-group>
+  </back>
+    <floats-wrap>
+      <table-wrap id="T1" position="float">
+        <label>Table 1</label>
+        <caption>
+          <title>Sociodemographic Characteristics: Kaiser Permanente Women Twins Study, Oakland, California, United States, 1989-1990, Full Cohort (n = 352 Pairs) and Analytic Cohort (n = 308 Pairs)</title>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <thead>
+            <tr>
+              <td colspan="2" rowspan="2">Sociodemographic Characteristics</td>
+              <td colspan="4">Full Cohort (<italic>n</italic> = 352 Pairs)<hr/></td>
+              <td colspan="4">Analytic Cohort (<italic>n</italic> = 308 Pairs)<hr/></td>
+            </tr>
+            <tr>
+              <td colspan="2">Pairs</td>
+              <td colspan="2">Missing or Discordant Data</td>
+              <td colspan="2">Pairs</td>
+              <td colspan="2">Missing or Discordant Data</td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td colspan="2"/>
+              <td><italic>n</italic></td>
+              <td>%<sup>a</sup></td>
+              <td><italic>n</italic></td>
+              <td>(%)</td>
+              <td><italic>n</italic></td>
+              <td>%<sup>a</sup></td>
+              <td><italic>n</italic></td>
+              <td>(%)</td>
+            </tr>
+            <tr>
+              <td>Age (y)</td>
+              <td>30–44</td>
+              <td>128</td>
+              <td>35.8</td>
+              <td>0</td>
+              <td> (0.0%)</td>
+              <td>109</td>
+              <td> 35.4</td>
+              <td> 0</td>
+              <td> (0.0%)</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>45–64</td>
+              <td>154</td>
+              <td>43.8</td>
+              <td></td>
+              <td></td>
+              <td>137</td>
+              <td> 44.5</td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>≥ 65</td>
+              <td> 72</td>
+              <td>20.5</td>
+              <td></td>
+              <td></td>
+              <td> 62</td>
+              <td> 20.1</td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td colspan="10"/>
+            </tr>
+            <tr>
+              <td>Race/ethnicity</td>
+              <td>White</td>
+              <td>316</td>
+              <td>89.8</td>
+              <td> 0</td>
+              <td> (0.0%)</td>
+              <td>278</td>
+              <td> 90.3</td>
+              <td> 0</td>
+              <td> (0.0%)</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>Black</td>
+              <td> 26</td>
+              <td> 7.4</td>
+              <td></td>
+              <td></td>
+              <td> 20</td>
+              <td> 6.5</td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>Asian</td>
+              <td> 9</td>
+              <td> 2.6</td>
+              <td></td>
+              <td></td>
+              <td> 9</td>
+              <td> 2.9</td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>American Indian</td>
+              <td> 1</td>
+              <td> 0.3</td>
+              <td></td>
+              <td></td>
+              <td> 1</td>
+              <td> 0.3</td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td colspan="10"/>
+            </tr>
+            <tr>
+              <td>Childhood household class (at age 14)</td>
+              <td>WC (nonsupervisory employee)</td>
+              <td>105</td>
+              <td>40.5</td>
+              <td>93</td>
+              <td>(26.4%)</td>
+              <td> 95</td>
+              <td> 40.8</td>
+              <td>75</td>
+              <td>(24.4%)</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>NWC (professional/supervisory)</td>
+              <td>151</td>
+              <td>58.3</td>
+              <td></td>
+              <td></td>
+              <td>135</td>
+              <td> 57.9</td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>Not in the paid labor force</td>
+              <td> 3</td>
+              <td> 1.2</td>
+              <td></td>
+              <td></td>
+              <td> 3</td>
+              <td> 1.3</td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td colspan="10"/>
+            </tr>
+            <tr>
+              <td>Adult household class</td>
+              <td>Both twins working class (WC:WC)</td>
+              <td> 20</td>
+              <td> 5.7</td>
+              <td>20</td>
+              <td> (5.7%)</td>
+              <td> 18</td>
+              <td> 5.8</td>
+              <td> 0</td>
+              <td> (0.0%)</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>Discordant (WC:NWC)</td>
+              <td>102</td>
+              <td>29.8</td>
+              <td></td>
+              <td></td>
+              <td> 97</td>
+              <td> 31.5</td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>Both twins professional/ supervisory (NWC:NWC)</td>
+              <td>230</td>
+              <td>64.5</td>
+              <td></td>
+              <td></td>
+              <td>193</td>
+              <td> 62.7</td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td colspan="10"/>
+            </tr>
+            <tr>
+              <td>Father&apos;s educational level</td>
+              <td>&lt; 4 y college</td>
+              <td>221</td>
+              <td>77.3</td>
+              <td>66</td>
+              <td>(18.8%)</td>
+              <td>199</td>
+              <td> 78.3</td>
+              <td>54</td>
+              <td>(17.5%)</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>≥ 4 y college</td>
+              <td> 65</td>
+              <td>22.7</td>
+              <td></td>
+              <td></td>
+              <td> 55</td>
+              <td> 21.7</td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td colspan="10"/>
+            </tr>
+            <tr>
+              <td>Adult educational level</td>
+              <td>Both twins &lt; 4 y college</td>
+              <td>181</td>
+              <td>51.4</td>
+              <td> 0</td>
+              <td> (0.0%)</td>
+              <td>161</td>
+              <td> 52.3</td>
+              <td> 0</td>
+              <td> (0.0%)</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>One twin &lt; 4 y college, onetwin ≥ 4 y college</td>
+              <td> 74</td>
+              <td>21.0</td>
+              <td></td>
+              <td></td>
+              <td> 63</td>
+              <td> 20.5</td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>Both twins ≥ 4 y college</td>
+              <td> 97</td>
+              <td>27.6</td>
+              <td></td>
+              <td></td>
+              <td> 84</td>
+              <td> 27.3</td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td colspan="10"/>
+            </tr>
+            <tr>
+              <td>Lived with twin at least until age 14</td>
+              <td>Yes</td>
+              <td>309</td>
+              <td>99.7</td>
+              <td>42</td>
+              <td>(11.9%)</td>
+              <td>308</td>
+              <td>100.0</td>
+              <td> 0</td>
+              <td> (0.0%)</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>No</td>
+              <td> 1</td>
+              <td> 0.3</td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+            </tr>
+            <tr>
+              <td colspan="10"/>
+            </tr>
+            <tr>
+              <td>Zygosity</td>
+              <td>Monozygotic</td>
+              <td>206</td>
+              <td>58.5</td>
+              <td> 0</td>
+              <td> (0.0%)</td>
+              <td>178</td>
+              <td> 57.8</td>
+              <td> 0</td>
+              <td> (0.0%)</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>Dizygotic</td>
+              <td>146</td>
+              <td>41.5</td>
+              <td></td>
+              <td></td>
+              <td>130</td>
+              <td> 42.2</td>
+              <td></td>
+              <td></td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <table-wrap id="T2" position="float">
+        <label>Table 2</label>
+        <caption>
+          <title>Health Characteristics: Kaiser Permanente Women Twins Study, Oakland, California, United States, 1989-1990, Full Cohort (n = 352 Pairs) and Analytic Cohort (n = 308 Pairs)</title>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <thead>
+            <tr>
+              <td rowspan="2">Health Characteristics</td>
+              <td colspan="6">Full Cohort (<italic>n</italic> = 352 Pairs)<hr/></td>
+              <td colspan="6">Analytic Cohort (<italic>n</italic> = 308 Pairs)<hr/></td>
+            </tr>
+            <tr>
+              <td colspan="4">Women</td>
+              <td colspan="2">Missing Data</td>
+              <td colspan="4">Women</td>
+              <td colspan="2">Missing Data</td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td></td>
+              <td><italic>n</italic><sup>a</sup></td>
+              <td>Mean<sup>b</sup></td>
+              <td>(SD)</td>
+              <td>%<sup>b</sup></td>
+              <td><italic>n</italic></td>
+              <td>(%)</td>
+              <td><italic>n</italic></td>
+              <td>Mean<sup>b</sup></td>
+              <td>(SD)</td>
+              <td>%<sup>b</sup></td>
+              <td><italic>n</italic></td>
+              <td>(%)</td>
+            </tr>
+            <tr>
+              <td colspan="13">Continuous outcomes</td>
+            </tr>
+            <tr>
+              <td>Systolic blood pressure (mm Hg)</td>
+              <td>704</td>
+              <td>  118.8</td>
+              <td>  (20.2)</td>
+              <td>–</td>
+              <td> 0</td>
+              <td>(0.0)</td>
+              <td>616</td>
+              <td> 119.0</td>
+              <td>   (20.1)</td>
+              <td>–</td>
+              <td> 0</td>
+              <td>(0.0)</td>
+            </tr>
+            <tr>
+              <td>Diastolic blood pressure (mm Hg)</td>
+              <td>702</td>
+              <td>  68.5</td>
+              <td>  (11.3)</td>
+              <td>–</td>
+              <td> 2</td>
+              <td>(0.3)</td>
+              <td>614</td>
+              <td>  68.7</td>
+              <td>   (11.2)</td>
+              <td>–</td>
+              <td> 2</td>
+              <td>(0.3)</td>
+            </tr>
+            <tr>
+              <td>BMI (kg/m<sup>2</sup>)</td>
+              <td>702</td>
+              <td>  25.7</td>
+              <td>   (5.8)</td>
+              <td>–</td>
+              <td> 2</td>
+              <td>(0.3)</td>
+              <td>614</td>
+              <td>  25.7</td>
+              <td>    (5.9)</td>
+              <td>–</td>
+              <td> 2</td>
+              <td>(0.3)</td>
+            </tr>
+            <tr>
+              <td>WHR</td>
+              <td>701</td>
+              <td>  0.8</td>
+              <td>   (0.1)</td>
+              <td>–</td>
+              <td> 3</td>
+              <td>(0.4)</td>
+              <td>613</td>
+              <td>   0.8</td>
+              <td>    (0.1)</td>
+              <td>–</td>
+              <td> 3</td>
+              <td>(0.5)</td>
+            </tr>
+            <tr>
+              <td>LDL cholesterol (mg/dl)</td>
+              <td>703</td>
+              <td>  120.6</td>
+              <td>  (38.3)</td>
+              <td>–</td>
+              <td> 1</td>
+              <td>(0.1)</td>
+              <td>615</td>
+              <td> 120.2</td>
+              <td>   (38.2)</td>
+              <td>–</td>
+              <td> 1</td>
+              <td>(0.2)</td>
+            </tr>
+            <tr>
+              <td>Post-load glucose (mg/dl)</td>
+              <td>658</td>
+              <td>  106.9</td>
+              <td>  (49.8)</td>
+              <td>–</td>
+              <td>46</td>
+              <td>(6.5)</td>
+              <td>574</td>
+              <td> 107.1</td>
+              <td>   (51.5)</td>
+              <td>–</td>
+              <td>42</td>
+              <td>(6.8)</td>
+            </tr>
+            <tr>
+              <td>Physical activity (kcal/kg/y)</td>
+              <td>699</td>
+              <td>6,699.0</td>
+              <td>(3,302.9)</td>
+              <td>–</td>
+              <td> 5</td>
+              <td>(0.7)</td>
+              <td>613</td>
+              <td>6812.7</td>
+              <td>(3,320.9)</td>
+              <td>–</td>
+              <td> 3</td>
+              <td>(0.5)</td>
+            </tr>
+            <tr>
+              <td colspan="13">Categorical outcomes</td>
+            </tr>
+            <tr>
+              <td>High blood pressure (% yes)</td>
+              <td>704</td>
+              <td>–</td>
+              <td>–</td>
+              <td> 8.9</td>
+              <td> 0</td>
+              <td>(0.0)</td>
+              <td>616</td>
+              <td>–</td>
+              <td>–</td>
+              <td> 8.8</td>
+              <td> 0</td>
+              <td>(0.0)</td>
+            </tr>
+            <tr>
+              <td>Self-rated health: Fair or poor</td>
+              <td>704</td>
+              <td>–</td>
+              <td>–</td>
+              <td>10.5</td>
+              <td> 0</td>
+              <td>(0.0)</td>
+              <td>616</td>
+              <td>–</td>
+              <td>–</td>
+              <td>10.2</td>
+              <td> 0</td>
+              <td>(0.0)</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+
+      <table-wrap id="T3" position="float">
+        <label>Table 3</label>
+        <caption>
+          <title>Comparison of Health Outcomes for 290 Twin Pairs Concordant and Discordant on Adult Household Occupational Class (WC and NWC): Continuous Outcomes, by Zygosity: Kaiser Permanente Women Twins Study, Oakland, California, United States, 1989-1990</title>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <thead>
+            <tr>
+              <td rowspan="2">Continuous Health Outcomes</td>
+              <td rowspan="2">Adult Class</td>
+              <td colspan="5">Monozygotic Twins (<italic>n</italic> = 167 pairs)<hr/></td>
+              <td colspan="5">Dizygotic Twins (<italic>n</italic> = 123 pairs)<hr/></td>
+            </tr>
+            <tr>
+              <td><italic>n</italic> (Pairs)</td>
+              <td colspan="2">Matched Mean Difference (95% CI)</td>
+              <td colspan="2">Mean Matched Absolute Difference (95% CI)</td>
+              <td><italic>n</italic> (Pairs)</td>
+              <td colspan="2">Matched Mean Difference (95% CI)</td>
+              <td colspan="2">Mean Matched Absolute Difference (95% CI)</td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>BMI (kg/m<sup>2</sup>)</td>
+              <td>WC:NWC</td>
+              <td> 51</td>
+              <td>  0.61</td>
+              <td>  (-0.39–1.60)</td>
+              <td>   2.46</td>
+              <td>     (1.72–3.21)</td>
+              <td>46</td>
+              <td> -0.64</td>
+              <td>    (-2.72–1.45)</td>
+              <td>   4.38</td>
+              <td>     (2.73–6.03)</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>NWC:NWC</td>
+              <td>115</td>
+              <td>–</td>
+              <td>–</td>
+              <td>   2.81</td>
+              <td>     (2.32–3.30)</td>
+              <td>76</td>
+              <td>–</td>
+              <td>–</td>
+              <td>   4.89</td>
+              <td>     (3.76–6.02)</td>
+            </tr>
+            <tr>
+              <td>WHR</td>
+              <td>WC:NWC</td>
+              <td> 51</td>
+              <td>  0.00</td>
+              <td>  (-0.01–0.02)</td>
+              <td>   0.04</td>
+              <td>     (0.03–0.04)</td>
+              <td>46</td>
+              <td> -0.02</td>
+              <td>    (-0.05–0.00)</td>
+              <td>   0.08</td>
+              <td>     (0.06–0.09)</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>NWC:NWC</td>
+              <td>115</td>
+              <td>–</td>
+              <td>–</td>
+              <td>   0.04</td>
+              <td>     (0.03–0.06)</td>
+              <td>75</td>
+              <td>–</td>
+              <td>–</td>
+              <td>   0.06</td>
+              <td>     (0.05–0.07)</td>
+            </tr>
+            <tr>
+              <td>Average systolic blood pressure (mm Hg)</td>
+              <td>WC:NWC</td>
+              <td> 51</td>
+              <td>  4.54</td>
+              <td>   (0.10–8.97)</td>
+              <td>  12.30</td>
+              <td>    (9.20–15.40)</td>
+              <td>46</td>
+              <td> -0.98</td>
+              <td>    (-7.54–5.58)</td>
+              <td>  17.54</td>
+              <td>   (13.44–21.65)</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>NWC:NWC</td>
+              <td>116</td>
+              <td>–</td>
+              <td>–</td>
+              <td>  11.42</td>
+              <td>    (9.71–13.13)</td>
+              <td>77</td>
+              <td>–</td>
+              <td>–</td>
+              <td>  13.89</td>
+              <td>   (11.07–16.71)</td>
+            </tr>
+            <tr>
+              <td>Average diastolic blood pressure (mm Hg)</td>
+              <td>WC:NWC</td>
+              <td> 51</td>
+              <td>  3.80</td>
+              <td>   (0.44–7.17)</td>
+              <td>   9.82</td>
+              <td>    (7.57–12.06)</td>
+              <td>46</td>
+              <td>   0.33</td>
+              <td>    (-2.90–3.56)</td>
+              <td>   9.16</td>
+              <td>    (7.35–10.97)</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>NWC:NWC</td>
+              <td>116</td>
+              <td>–</td>
+              <td>–</td>
+              <td>   7.41</td>
+              <td>     (6.34–8.48)</td>
+              <td>75</td>
+              <td>–</td>
+              <td>–</td>
+              <td>   8.85</td>
+              <td>    (7.14–10.57)</td>
+            </tr>
+            <tr>
+              <td>LDL cholesterol (mg/dl)</td>
+              <td>WC:NWC</td>
+              <td> 50</td>
+              <td>  7.82</td>
+              <td>   (1.07–14.57)</td>
+              <td>  19.58</td>
+              <td>   (15.08–24.08)</td>
+              <td>46</td>
+              <td> -9.37</td>
+              <td>   (-22.03–3.29)</td>
+              <td>  32.80</td>
+              <td>   (24.10–41.51)</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>NWC:NWC</td>
+              <td>116</td>
+              <td>–</td>
+              <td>–</td>
+              <td>  22.91</td>
+              <td>   (18.71–27.10)</td>
+              <td>77</td>
+              <td>–</td>
+              <td>–</td>
+              <td>  27.95</td>
+              <td>   (23.86–32.04)</td>
+            </tr>
+            <tr>
+              <td>Post-load glucose (mg/dl)</td>
+              <td>WC:NWC</td>
+              <td> 44</td>
+              <td>-3.80</td>
+              <td>  (-15.76–8.17)</td>
+              <td>  26.39</td>
+              <td>   (17.32–35.46)</td>
+              <td>39</td>
+              <td> -2.54</td>
+              <td>   (-14.74–9.66)</td>
+              <td>  31.77</td>
+              <td>   (24.88–38.66)</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>NWC:NWC</td>
+              <td>103</td>
+              <td>–</td>
+              <td>–</td>
+              <td>  25.49</td>
+              <td>   (20.51–30.46)</td>
+              <td>69</td>
+              <td>–</td>
+              <td>–</td>
+              <td>  30.82</td>
+              <td>   (23.82–37.63)</td>
+            </tr>
+            <tr>
+              <td>Physical activity (kcal/kg/yr)</td>
+              <td>WC:NWC</td>
+              <td> 51</td>
+              <td>750.0</td>
+              <td>(-206.5–1706.5)</td>
+              <td>2,566.9</td>
+              <td>(1,894.7–3,239.1)</td>
+              <td>45</td>
+              <td>1,329.0</td>
+              <td>(-237.2–2,420.8)</td>
+              <td>2,987.3</td>
+              <td>(2,234.3–3,740.4)</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>NWC:NWC</td>
+              <td>115</td>
+              <td>–</td>
+              <td>–</td>
+              <td>2,378.8</td>
+              <td>(2,009.6–2,748.0)</td>
+              <td>77</td>
+              <td>–</td>
+              <td>–</td>
+              <td>3,296.4</td>
+              <td>(2,655.2–3,927.7)</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <table-wrap id="T4" position="float">
+        <label>Table 4</label>
+        <caption>
+          <title>Comparison of Health Outcomes for 290 Twin Pairs Concordant and Discordant on Adult Household Occupational Class (WC and NWC): Categorical Outcomes, by Zygosity: Kaiser Permanente Women Twins Study, Oakland, California, United States, 1989-1990</title>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <thead>
+            <tr>
+              <td rowspan="3">Categorical Health Outcomes</td>
+              <td rowspan="3">Adult Class</td>
+              <td colspan="4">Monozygotic Twins (<italic>n</italic> = 178 pairs)<hr/></td>
+              <td colspan="4">Dizygotic Twins (<italic>n</italic> = 130 pairs)<hr/></td>
+            </tr>
+            <tr>
+              <td rowspan="2"><italic>n</italic><sup>a</sup></td>
+              <td rowspan="2">% Discordant</td>
+              <td colspan="2">Kappa Statistics</td>
+              <td rowspan="2"><italic>n</italic><sup>a</sup></td>
+              <td rowspan="2">% Discordant</td>
+              <td colspan="2">Kappa Statistics</td>
+            </tr>
+            <tr>
+              <td>κ (95% CI)</td>
+              <td>Equality of κ</td>
+              <td>κ (95% CI)</td>
+              <td>Equality of κ</td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>High blood pressure (yes)</td>
+              <td>WC:NWC</td>
+              <td>51</td>
+              <td>7.8</td>
+              <td>0.29 (0.21–0.80)</td>
+              <td>χ<sup>2</sup> = 0.32</td>
+              <td>46</td>
+              <td>21.7</td>
+              <td>-0.10 (-0.19–[-0.02])</td>
+              <td>χ<sup>2</sup> = 3.36</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td>df = 1</td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td>df = 1</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>NWC:NWC</td>
+              <td>116</td>
+              <td>6.9</td>
+              <td>0.46 (0.15–0.78)</td>
+              <td><italic>p</italic> = 0.5732</td>
+              <td>77</td>
+              <td>13.0</td>
+              <td>0.22 (-0.11–0.54)</td>
+              <td><italic>p</italic> = 0.0669</td>
+            </tr>
+            <tr>
+              <td>Self-rated health: Fair or poor</td>
+              <td>WC:NWC</td>
+              <td>51</td>
+              <td>27.5</td>
+              <td>-0.14 (-0.23–[-0.05])</td>
+              <td>χ<sup>2</sup> = 5.62</td>
+              <td>46</td>
+              <td>13.0</td>
+              <td>0.43 (0.05–0.80)</td>
+              <td>χ<sup>2</sup> = 1.40</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td>df = 1</td>
+              <td></td>
+              <td></td>
+              <td></td>
+              <td>df = 1</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>NWC:NWC</td>
+              <td>116</td>
+              <td>6.9</td>
+              <td>0.30 (-0.06–0.65)</td>
+              <td><italic>p</italic> = 0.0178</td>
+              <td>77</td>
+              <td>16.9</td>
+              <td>0.14 (-0.15–0.43)</td>
+              <td><italic>p</italic> = 0.2373</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <table-wrap id="T5" position="float">
+        <label>Table 5</label>
+        <caption>
+          <title>Comparison of Health Outcomes for 290 Twin Pairs Concordant and Discordant on Educational Level (Less Than Versus at Least 4 y of College): Continuous Outcomes by Zygosity: Kaiser Permanente Women Twins Study, Oakland, California, United States, 1989-1990</title>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <thead>
+            <tr>
+              <td rowspan="2">Continuous Outcomes</td>
+              <td rowspan="2">Adult Educational Level<sup>a</sup></td>
+              <td colspan="5">Monozygotic Twins (<italic>n</italic> = 178 pairs)<hr/></td>
+              <td colspan="5">Dizygotic Twins (<italic>n</italic> = 130 pairs)<hr/></td>
+            </tr>
+            <tr>
+              <td><italic>n</italic> (Pairs)</td>
+              <td colspan="2">Mean Matched Difference (95% CI)</td>
+              <td colspan="2">Mean Matched Absolute Difference (95% CI)</td>
+              <td><italic>n</italic> (Pairs)</td>
+              <td colspan="2">Mean Matched Difference (95% CI)</td>
+              <td colspan="2">Mean Matched Absolute Difference (95% CI)</td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>BMI (kg/m<sup>2</sup>)</td>
+              <td>&lt;4 coll : &lt;4 coll</td>
+              <td>86</td>
+              <td>–</td>
+              <td>–</td>
+              <td>2.84</td>
+              <td>(2.23–3.46)</td>
+              <td>73</td>
+              <td>–</td>
+              <td>–</td>
+              <td>   5.04</td>
+              <td>(3.76–6.32)</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>&lt;4 coll : ≥4 coll</td>
+              <td>33</td>
+              <td>   0.91</td>
+              <td>(-0.44–2.26)</td>
+              <td>2.91</td>
+              <td>(1.95–3.87)</td>
+              <td>30</td>
+              <td>-2.38</td>
+              <td>(-4.78–0.02)</td>
+              <td>   4.76</td>
+              <td>(2.88–6.63)</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>≥4 coll : ≥4 coll</td>
+              <td>58</td>
+              <td>–</td>
+              <td>–</td>
+              <td>2.27</td>
+              <td>(1.73–2.80)</td>
+              <td>26</td>
+              <td>–</td>
+              <td>–</td>
+              <td>   3.90</td>
+              <td>(2.34–5.47)</td>
+            </tr>
+            <tr>
+              <td>WHR</td>
+              <td>&lt;4 coll : &lt;4 coll</td>
+              <td>86</td>
+              <td>–</td>
+              <td>–</td>
+              <td>0.04</td>
+              <td>(0.03–0.06)</td>
+              <td>72</td>
+              <td>–</td>
+              <td>–</td>
+              <td>   0.08</td>
+              <td>(0.06–0.09)</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>&lt;4 coll : ≥4 coll</td>
+              <td>33</td>
+              <td>   0.00</td>
+              <td>(-0.01–0.02)</td>
+              <td>0.03</td>
+              <td>(0.02–0.05)</td>
+              <td>30</td>
+              <td>  -0.02</td>
+              <td>(-0.05–0.01)</td>
+              <td>   0.07</td>
+              <td>(0.05–0.08)</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>≥4 coll : ≥4 coll</td>
+              <td>58</td>
+              <td>–</td>
+              <td>–</td>
+              <td>0.04</td>
+              <td>(0.03–0.05)</td>
+              <td>26</td>
+              <td>–</td>
+              <td>–</td>
+              <td>   0.05</td>
+              <td>(0.04–0.07)</td>
+            </tr>
+            <tr>
+              <td>Average systolic blood pressure (mm Hg)</td>
+              <td>&lt;4 coll : &lt;4 coll</td>
+              <td>87</td>
+              <td>–</td>
+              <td>–</td>
+              <td>15.19</td>
+              <td>(12.47–17.92)</td>
+              <td>74</td>
+              <td>–</td>
+              <td>–</td>
+              <td>  18.04</td>
+              <td>(14.58–21.50)</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>&lt;4 coll : ≥4 coll</td>
+              <td>33</td>
+              <td>   2.40</td>
+              <td>(-2.72–7.53)</td>
+              <td>11.11</td>
+              <td>(7.63–14.59)</td>
+              <td>30</td>
+              <td>4.44</td>
+              <td>(-2.16–11.05)</td>
+              <td>  13.51</td>
+              <td>(8.82–18.20)</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>≥4 coll : ≥4 coll</td>
+              <td>58</td>
+              <td>–</td>
+              <td>–</td>
+              <td>8.48</td>
+              <td>(6.58–10.38)</td>
+              <td>26</td>
+              <td>–</td>
+              <td>–</td>
+              <td>  11.69</td>
+              <td>(8.07–15.31)</td>
+            </tr>
+            <tr>
+              <td>Average diastolic blood pressure (mm Hg)</td>
+              <td>&lt;4 coll : &lt;4 coll</td>
+              <td>87</td>
+              <td>–</td>
+              <td>–</td>
+              <td>10.01</td>
+              <td>(8.35–11.69)</td>
+              <td>72</td>
+              <td>–</td>
+              <td>–</td>
+              <td>  10.29</td>
+              <td>(8.52–12.05)</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>&lt;4 coll : ≥4 coll</td>
+              <td>33</td>
+              <td>   0.31</td>
+              <td>(-2.98–3.61)</td>
+              <td>7.22</td>
+              <td>(5.07–9.37)</td>
+              <td>30</td>
+              <td>0.23</td>
+              <td>(-2.97–3.44)</td>
+              <td>   6.86</td>
+              <td>(4.84–8.87)</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>≥4 coll : ≥4 coll</td>
+              <td>58</td>
+              <td>–</td>
+              <td>–</td>
+              <td>6.82</td>
+              <td>(5.33–8.31)</td>
+              <td>26</td>
+              <td>–</td>
+              <td>–</td>
+              <td>   7.59</td>
+              <td>(5.33–9.85)</td>
+            </tr>
+            <tr>
+              <td>LDL cholesterol (mg/dl)</td>
+              <td>&lt;4 coll : &lt;4 coll</td>
+              <td>87</td>
+              <td>–</td>
+              <td>–</td>
+              <td>22.76</td>
+              <td>(18.96–26.55)</td>
+              <td>74</td>
+              <td>–</td>
+              <td>–</td>
+              <td>  29.24</td>
+              <td>(23.73–34.76)</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>&lt;4 coll : ≥4 coll</td>
+              <td>33</td>
+              <td>-10.30</td>
+              <td>(-23.60–2.99)</td>
+              <td>25.64</td>
+              <td>(15.12–36.15)</td>
+              <td>30</td>
+              <td>15.03</td>
+              <td>(1.76–28.30)</td>
+              <td>  32.90</td>
+              <td>(29.49–40.82)</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>≥4 coll : ≥4 coll</td>
+              <td>57</td>
+              <td>–</td>
+              <td>–</td>
+              <td>19.60</td>
+              <td>(14.44–24.75)</td>
+              <td>26</td>
+              <td>–</td>
+              <td>–</td>
+              <td>  24.50</td>
+              <td>(16.20–32.80)</td>
+            </tr>
+            <tr>
+              <td>Post-load glucose (mg/dl)</td>
+              <td>&lt;4 coll : &lt;4 coll</td>
+              <td>70</td>
+              <td>–</td>
+              <td>–</td>
+              <td>32.90</td>
+              <td>(24.99–40.81)</td>
+              <td>63</td>
+              <td>–</td>
+              <td>–</td>
+              <td>  33.25</td>
+              <td>(27.15–39.35)</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>&lt;4 coll : ≥4 coll</td>
+              <td>29</td>
+              <td> -1.03</td>
+              <td>(-12.34–10.28)</td>
+              <td>22.00</td>
+              <td>(14.15–29.85)</td>
+              <td>26</td>
+              <td>-7.54</td>
+              <td>(-22.30–7.23)</td>
+              <td>  27.62</td>
+              <td>(17.15–38.08)</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>≥4 coll : ≥4 coll</td>
+              <td>56</td>
+              <td>–</td>
+              <td>–</td>
+              <td>19.43</td>
+              <td>(14.99–23.87)</td>
+              <td>24</td>
+              <td>–</td>
+              <td>–</td>
+              <td>  32.08</td>
+              <td>(18.76–45.41)</td>
+            </tr>
+            <tr>
+              <td>Physical activity (kcal/kg/yr)</td>
+              <td>&lt;4 coll : &lt;4 coll</td>
+              <td>86</td>
+              <td>–</td>
+              <td>–</td>
+              <td>2,743.8</td>
+              <td>(2,232.4–3,255.3)</td>
+              <td>74</td>
+              <td>–</td>
+              <td>–</td>
+              <td>3,040.6</td>
+              <td>(2,380.1–3,701.0)</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>&lt;4 coll : ≥4 coll</td>
+              <td>33</td>
+              <td>-757.0</td>
+              <td>(-1,770.0–256.9)</td>
+              <td>2,384.6</td>
+              <td>(1,741.0–3,028.1)</td>
+              <td>30</td>
+              <td>706.7</td>
+              <td>(-945.6–2,359.0)</td>
+              <td>3,625.5</td>
+              <td>(2,598.4–4,652.6)</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>≥4 coll : ≥4 coll</td>
+              <td>58</td>
+              <td>–</td>
+              <td>–</td>
+              <td>2,197.1</td>
+              <td>(1,658.2–2,735.9)</td>
+              <td>25</td>
+              <td>–</td>
+              <td>–</td>
+              <td>3,010.1</td>
+              <td>(2,066.1–3,954.2)</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+      <table-wrap id="T6" position="float">
+        <label>Table 6</label>
+        <caption>
+          <title>Comparison of Health Outcomes for 290 Twin Pairs Concordant and Discordant on Educational Level (Less Than Versus at Least 4 y of College): Categorical Outcomes by Zygosity: Kaiser Permanente Women Twins Study, Oakland, California, United States, 1989-1990</title>
+        </caption>
+        <table frame="hsides" rules="groups">
+          <thead>
+            <tr>
+              <td rowspan="3">Categorical Health Outcomes</td>
+              <td rowspan="3">Adult Education<sup>a</sup></td>
+              <td colspan="4">Monozygotic Twins (<italic>n</italic> = 178 pairs)<hr/></td>
+              <td colspan="4">Dizygotic Twins (<italic>n</italic> = 130 pairs)<hr/></td>
+            </tr>
+            <tr>
+              <td rowspan="2"><italic>n</italic></td>
+              <td rowspan="2">% Discordant</td>
+              <td colspan="2">Kappa Statistics</td>
+              <td rowspan="2"><italic>n</italic></td>
+              <td rowspan="2">% Discordant</td>
+              <td colspan="2">Kappa Statistics</td>
+            </tr>
+            <tr>
+              <td>κ (95% CI)</td>
+              <td>Equality of κ</td>
+              <td>κ (95% CI)</td>
+              <td>Equality of κ</td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>High blood pressure (yes)</td>
+              <td>&lt;4coll : &lt;4coll</td>
+              <td>87</td>
+              <td>13.8</td>
+              <td>0.42 (0.15–0.69)</td>
+              <td>χ<sup>2</sup> = 10.61</td>
+              <td>74</td>
+              <td>20.3</td>
+              <td>0.09 (-0.17–0.36)</td>
+              <td>χ<sup>2</sup> = 1.82</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>&lt;4coll : ≥4coll</td>
+              <td>33</td>
+              <td>9.1</td>
+              <td>-0.04 (-0.10–0.02)</td>
+              <td>df = 1</td>
+              <td>30</td>
+              <td>3.3</td>
+              <td>-0.00 (-0.00–[-0.00])</td>
+              <td>df = 1</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>≥4coll : ≥4coll</td>
+              <td>58</td>
+              <td>0.0</td>
+              <td>1.00 (1.00–1.00)</td>
+              <td><italic>p</italic> = 0.0011</td>
+              <td>26</td>
+              <td>19.2</td>
+              <td>-0.10 (-0.20–[-0.00])</td>
+              <td><italic>p</italic> = 0.1779</td>
+            </tr>
+            <tr>
+              <td>Self-rated health: Fair or poor</td>
+              <td>&lt;4coll : &lt;4coll</td>
+              <td>87</td>
+              <td>19.5</td>
+              <td>-0.11 (-0.16–[-0.06])</td>
+              <td>χ<sup>2</sup> = 7.76</td>
+              <td>74</td>
+              <td>20.3</td>
+              <td>0.28 (0.00–0.55)</td>
+              <td>χ<sup>2</sup> = 14.46</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>&lt;4coll : ≥4coll</td>
+              <td>33</td>
+              <td>3.0</td>
+              <td>0.65 (0.02–1.28)</td>
+              <td>df = 2</td>
+              <td>30</td>
+              <td>10.0</td>
+              <td>0.61 (0.21–1.01)</td>
+              <td>df = 2</td>
+            </tr>
+            <tr>
+              <td></td>
+              <td>≥4coll : ≥4coll</td>
+              <td>58</td>
+              <td>8.6</td>
+              <td>0.24 (-0.21–0.69)</td>
+              <td><italic>p</italic> = 0.0207</td>
+              <td>26</td>
+              <td>7.7</td>
+              <td>-0.04 (-0.10–0.02)</td>
+              <td><italic>p</italic> = 0.0007</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+    </floats-wrap>
+</article>

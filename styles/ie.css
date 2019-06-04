@@ -1,0 +1,24 @@
+/**
+ * styles/rightSidebar.css
+ *
+ * Copyright (c) 2003-2013 John Willinsky
+ * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
+ *
+ * Site-wide shared elements for pages including a right-hand sidebar.
+ *
+ */
+
+/**
+ * Common HTML elements
+ */
+
+
+.navbar-inner{
+	background-image: none !important;
+	background: #E01F1F;
+	background-color: #E01F1F !important;
+	filter: none !important;
+}
+.navbar .nav > li > a {
+	padding-right: 16px !important;
+}

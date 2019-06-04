@@ -1,0 +1,7 @@
+/cache/
+/upload/
+/lib/pkp/classes/mail/
+/.idea/
+/docs/
+/config.inc.php
+plugins/importexport/duracloud/lib/

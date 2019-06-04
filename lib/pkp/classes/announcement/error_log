@@ -1,0 +1,16 @@
+[07-Oct-2013 19:35:59] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/announcement/PKPAnnouncementTypeDAO.inc.php on line 17
+[07-Oct-2013 19:35:59] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/announcement/PKPAnnouncement.inc.php on line 22
+[07-Oct-2013 19:35:59] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/announcement/PKPAnnouncementType.inc.php on line 16
+[07-Oct-2013 19:35:59] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/announcement/PKPAnnouncementDAO.inc.php on line 16
+[07-Oct-2013 19:38:57] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/announcement/PKPAnnouncementType.inc.php on line 16
+[07-Oct-2013 19:38:57] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/announcement/PKPAnnouncementDAO.inc.php on line 16
+[07-Oct-2013 19:38:57] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/announcement/PKPAnnouncementDAO.inc.php on line 16
+[07-Oct-2013 19:38:58] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/announcement/PKPAnnouncementType.inc.php on line 16
+[07-Oct-2013 19:38:58] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/announcement/PKPAnnouncement.inc.php on line 22
+[07-Oct-2013 19:38:58] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/announcement/PKPAnnouncement.inc.php on line 22
+[21-Oct-2013 19:57:27] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/announcement/PKPAnnouncement.inc.php on line 22
+[21-Oct-2013 19:57:27] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/announcement/PKPAnnouncementType.inc.php on line 16
+[21-Oct-2013 19:57:27] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/announcement/PKPAnnouncementDAO.inc.php on line 16
+[21-Oct-2013 19:57:27] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/announcement/PKPAnnouncementTypeDAO.inc.php on line 17
+[21-Oct-2013 20:01:12] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/announcement/PKPAnnouncementTypeDAO.inc.php on line 17
+[21-Oct-2013 20:01:12] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/announcement/PKPAnnouncementTypeDAO.inc.php on line 17

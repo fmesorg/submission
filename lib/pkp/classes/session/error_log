@@ -1,0 +1,12 @@
+[07-Oct-2013 19:36:26] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/session/Session.inc.php on line 20
+[07-Oct-2013 19:36:26] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/session/SessionDAO.inc.php on line 17
+[07-Oct-2013 19:39:23] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/session/Session.inc.php on line 20
+[07-Oct-2013 19:39:23] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/session/Session.inc.php on line 20
+[07-Oct-2013 19:39:31] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/session/SessionDAO.inc.php on line 17
+[07-Oct-2013 19:39:31] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/session/SessionDAO.inc.php on line 17
+[21-Oct-2013 19:57:19] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/session/Session.inc.php on line 20
+[21-Oct-2013 19:57:19] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/session/SessionDAO.inc.php on line 17
+[21-Oct-2013 20:00:58] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/session/Session.inc.php on line 20
+[21-Oct-2013 20:00:58] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/session/SessionDAO.inc.php on line 17
+[21-Oct-2013 20:00:58] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/session/Session.inc.php on line 20
+[21-Oct-2013 20:00:58] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/session/SessionDAO.inc.php on line 17

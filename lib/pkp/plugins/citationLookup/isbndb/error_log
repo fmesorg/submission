@@ -1,0 +1,6 @@
+[07-Oct-2013 19:41:23] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/plugins/citationLookup/isbndb/PKPIsbndbCitationLookupPlugin.inc.php on line 20
+[07-Oct-2013 19:47:06] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/plugins/citationLookup/isbndb/PKPIsbndbCitationLookupPlugin.inc.php on line 20
+[07-Oct-2013 19:47:06] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/plugins/citationLookup/isbndb/PKPIsbndbCitationLookupPlugin.inc.php on line 20
+[21-Oct-2013 20:04:49] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/plugins/citationLookup/isbndb/PKPIsbndbCitationLookupPlugin.inc.php on line 20
+[21-Oct-2013 20:12:11] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/plugins/citationLookup/isbndb/PKPIsbndbCitationLookupPlugin.inc.php on line 20
+[21-Oct-2013 20:12:11] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/plugins/citationLookup/isbndb/PKPIsbndbCitationLookupPlugin.inc.php on line 20

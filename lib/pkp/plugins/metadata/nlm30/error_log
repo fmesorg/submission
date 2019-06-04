@@ -1,0 +1,6 @@
+[07-Oct-2013 19:41:19] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/plugins/metadata/nlm30/PKPNlm30MetadataPlugin.inc.php on line 20
+[07-Oct-2013 19:46:12] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/plugins/metadata/nlm30/PKPNlm30MetadataPlugin.inc.php on line 20
+[07-Oct-2013 19:46:12] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/plugins/metadata/nlm30/PKPNlm30MetadataPlugin.inc.php on line 20
+[21-Oct-2013 20:04:32] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/plugins/metadata/nlm30/PKPNlm30MetadataPlugin.inc.php on line 20
+[21-Oct-2013 20:10:45] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/plugins/metadata/nlm30/PKPNlm30MetadataPlugin.inc.php on line 20
+[21-Oct-2013 20:10:46] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/plugins/metadata/nlm30/PKPNlm30MetadataPlugin.inc.php on line 20

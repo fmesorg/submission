@@ -1,0 +1,6 @@
+[07-Oct-2013 19:39:50] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/plugins/metadata/dc11/schema/Dc11Schema.inc.php on line 21
+[07-Oct-2013 19:44:06] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/plugins/metadata/dc11/schema/Dc11Schema.inc.php on line 21
+[07-Oct-2013 19:44:06] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/plugins/metadata/dc11/schema/Dc11Schema.inc.php on line 21
+[21-Oct-2013 20:03:00] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/plugins/metadata/dc11/schema/Dc11Schema.inc.php on line 21
+[21-Oct-2013 20:09:30] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/plugins/metadata/dc11/schema/Dc11Schema.inc.php on line 21
+[21-Oct-2013 20:09:30] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/plugins/metadata/dc11/schema/Dc11Schema.inc.php on line 21

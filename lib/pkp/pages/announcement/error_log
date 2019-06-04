@@ -1,0 +1,6 @@
+[07-Oct-2013 19:34:42] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/pages/announcement/PKPAnnouncementHandler.inc.php on line 15
+[07-Oct-2013 19:36:56] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/pages/announcement/PKPAnnouncementHandler.inc.php on line 15
+[07-Oct-2013 19:36:56] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/pages/announcement/PKPAnnouncementHandler.inc.php on line 15
+[21-Oct-2013 19:57:06] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/pages/announcement/PKPAnnouncementHandler.inc.php on line 15
+[21-Oct-2013 20:00:42] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/pages/announcement/PKPAnnouncementHandler.inc.php on line 15
+[21-Oct-2013 20:00:42] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/pages/announcement/PKPAnnouncementHandler.inc.php on line 15

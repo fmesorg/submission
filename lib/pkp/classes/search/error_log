@@ -1,0 +1,12 @@
+[07-Oct-2013 19:36:02] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/search/SearchHTMLParser.inc.php on line 16
+[07-Oct-2013 19:36:02] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/search/SearchHelperParser.inc.php on line 16
+[07-Oct-2013 19:38:58] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/search/SearchHTMLParser.inc.php on line 16
+[07-Oct-2013 19:38:58] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/search/SearchHTMLParser.inc.php on line 16
+[07-Oct-2013 19:39:06] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/search/SearchHelperParser.inc.php on line 16
+[07-Oct-2013 19:39:06] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/search/SearchHelperParser.inc.php on line 16
+[21-Oct-2013 19:57:12] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/search/SearchHelperParser.inc.php on line 16
+[21-Oct-2013 19:57:12] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/search/SearchHTMLParser.inc.php on line 16
+[21-Oct-2013 20:00:49] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/search/SearchHTMLParser.inc.php on line 16
+[21-Oct-2013 20:00:49] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/search/SearchHTMLParser.inc.php on line 16
+[21-Oct-2013 20:00:49] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/search/SearchHelperParser.inc.php on line 16
+[21-Oct-2013 20:00:49] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/search/SearchHelperParser.inc.php on line 16

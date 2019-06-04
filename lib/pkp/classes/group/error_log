@@ -1,0 +1,24 @@
+[07-Oct-2013 19:35:58] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/group/GroupMembership.inc.php on line 17
+[07-Oct-2013 19:36:01] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/group/GroupDAO.inc.php on line 17
+[07-Oct-2013 19:36:02] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/group/GroupMembershipDAO.inc.php on line 17
+[07-Oct-2013 19:36:05] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/group/Group.inc.php on line 24
+[07-Oct-2013 19:38:57] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/group/GroupDAO.inc.php on line 17
+[07-Oct-2013 19:38:57] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/group/GroupDAO.inc.php on line 17
+[07-Oct-2013 19:38:58] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/group/GroupMembership.inc.php on line 17
+[07-Oct-2013 19:38:59] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/group/GroupMembershipDAO.inc.php on line 17
+[07-Oct-2013 19:39:03] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/group/Group.inc.php on line 24
+[07-Oct-2013 19:39:03] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/group/Group.inc.php on line 24
+[07-Oct-2013 19:42:59] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/group/GroupMembership.inc.php on line 17
+[07-Oct-2013 19:49:02] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/group/GroupMembership.inc.php on line 17
+[21-Oct-2013 19:57:31] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/group/GroupDAO.inc.php on line 17
+[21-Oct-2013 19:57:32] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/group/Group.inc.php on line 24
+[21-Oct-2013 19:57:32] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/group/GroupMembershipDAO.inc.php on line 17
+[21-Oct-2013 19:57:32] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/group/GroupMembership.inc.php on line 17
+[21-Oct-2013 20:01:11] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/group/Group.inc.php on line 24
+[21-Oct-2013 20:01:11] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/group/Group.inc.php on line 24
+[21-Oct-2013 20:01:11] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/group/GroupDAO.inc.php on line 17
+[21-Oct-2013 20:01:13] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/group/GroupMembershipDAO.inc.php on line 17
+[21-Oct-2013 20:01:14] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/group/GroupMembership.inc.php on line 17
+[21-Oct-2013 20:01:14] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/group/GroupMembershipDAO.inc.php on line 17
+[21-Oct-2013 20:01:14] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/group/GroupDAO.inc.php on line 17
+[21-Oct-2013 20:01:14] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/group/GroupMembership.inc.php on line 17

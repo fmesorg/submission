@@ -1,0 +1,12 @@
+[07-Oct-2013 19:36:29] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/install/Installer.inc.php on line 26
+[07-Oct-2013 19:36:30] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/install/PKPInstall.inc.php on line 25
+[07-Oct-2013 19:39:36] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/install/PKPInstall.inc.php on line 25
+[07-Oct-2013 19:39:36] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/install/PKPInstall.inc.php on line 25
+[07-Oct-2013 19:39:39] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/install/Installer.inc.php on line 26
+[07-Oct-2013 19:39:39] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/install/Installer.inc.php on line 26
+[21-Oct-2013 19:57:39] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/install/PKPInstall.inc.php on line 25
+[21-Oct-2013 19:57:39] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/install/Installer.inc.php on line 26
+[21-Oct-2013 20:01:22] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/install/PKPInstall.inc.php on line 25
+[21-Oct-2013 20:01:22] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/install/PKPInstall.inc.php on line 25
+[21-Oct-2013 20:01:25] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/install/Installer.inc.php on line 26
+[21-Oct-2013 20:01:25] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/install/Installer.inc.php on line 26

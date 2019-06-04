@@ -1,0 +1,16 @@
+[07-Oct-2013 19:36:01] PHP Fatal error:  Class 'Config' not found in /home/ijmein/public_html/lib/pkp/classes/xslt/XSLTransformer.inc.php on line 17
+[07-Oct-2013 19:36:01] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/xslt/XMLTypeDescription.inc.php on line 24
+[07-Oct-2013 19:36:01] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/xslt/XSLTransformationFilter.inc.php on line 15
+[07-Oct-2013 19:38:56] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/xslt/XMLTypeDescription.inc.php on line 24
+[07-Oct-2013 19:38:56] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/xslt/XMLTypeDescription.inc.php on line 24
+[07-Oct-2013 19:38:58] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/xslt/XSLTransformationFilter.inc.php on line 15
+[07-Oct-2013 19:38:59] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/xslt/XSLTransformationFilter.inc.php on line 15
+[21-Oct-2013 19:57:13] PHP Fatal error:  Class 'Config' not found in /home/ijmein/public_html/lib/pkp/classes/xslt/XSLTransformer.inc.php on line 17
+[21-Oct-2013 19:57:13] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/xslt/XMLTypeDescription.inc.php on line 24
+[21-Oct-2013 19:57:13] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/xslt/XSLTransformationFilter.inc.php on line 15
+[21-Oct-2013 20:00:50] PHP Fatal error:  Class 'Config' not found in /home/ijmein/public_html/lib/pkp/classes/xslt/XSLTransformer.inc.php on line 17
+[21-Oct-2013 20:00:50] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/xslt/XMLTypeDescription.inc.php on line 24
+[21-Oct-2013 20:00:50] PHP Fatal error:  Class 'Config' not found in /home/ijmein/public_html/lib/pkp/classes/xslt/XSLTransformer.inc.php on line 17
+[21-Oct-2013 20:00:50] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/xslt/XMLTypeDescription.inc.php on line 24
+[21-Oct-2013 20:00:50] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/xslt/XSLTransformationFilter.inc.php on line 15
+[21-Oct-2013 20:00:50] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/xslt/XSLTransformationFilter.inc.php on line 15

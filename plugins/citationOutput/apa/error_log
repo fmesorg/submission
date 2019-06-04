@@ -1,0 +1,6 @@
+[07-Oct-2013 19:34:39] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/plugins/citationOutput/apa/ApaCitationOutputPlugin.inc.php on line 20
+[07-Oct-2013 19:36:53] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/plugins/citationOutput/apa/ApaCitationOutputPlugin.inc.php on line 20
+[07-Oct-2013 19:36:53] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/plugins/citationOutput/apa/ApaCitationOutputPlugin.inc.php on line 20
+[21-Oct-2013 19:55:28] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/plugins/citationOutput/apa/ApaCitationOutputPlugin.inc.php on line 20
+[21-Oct-2013 19:58:52] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/plugins/citationOutput/apa/ApaCitationOutputPlugin.inc.php on line 20
+[21-Oct-2013 19:58:55] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/plugins/citationOutput/apa/ApaCitationOutputPlugin.inc.php on line 20

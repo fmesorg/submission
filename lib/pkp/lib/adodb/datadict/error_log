@@ -1,0 +1,5 @@
+[07-Oct-2013 19:41:02] PHP Fatal error:  Class 'ADODB_DataDict' not found in /home/ijmein/public_html/lib/pkp/lib/adodb/datadict/datadict-firebird.inc.php on line 13
+[07-Oct-2013 19:45:45] PHP Fatal error:  Class 'ADODB_DataDict' not found in /home/ijmein/public_html/lib/pkp/lib/adodb/datadict/datadict-firebird.inc.php on line 13
+[21-Oct-2013 20:04:30] PHP Fatal error:  Class 'ADODB_DataDict' not found in /home/ijmein/public_html/lib/pkp/lib/adodb/datadict/datadict-firebird.inc.php on line 13
+[21-Oct-2013 20:10:35] PHP Fatal error:  Class 'ADODB_DataDict' not found in /home/ijmein/public_html/lib/pkp/lib/adodb/datadict/datadict-firebird.inc.php on line 13
+[21-Oct-2013 20:10:36] PHP Fatal error:  Class 'ADODB_DataDict' not found in /home/ijmein/public_html/lib/pkp/lib/adodb/datadict/datadict-firebird.inc.php on line 13

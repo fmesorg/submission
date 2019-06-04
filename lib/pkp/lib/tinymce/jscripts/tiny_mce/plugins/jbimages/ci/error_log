@@ -1,0 +1,11 @@
+[14-May-2015 12:25:39 UTC] ojs2 has produced an error
+  Message: WARNING: Invalid argument supplied for foreach()
+  In file: /home/ijmein/public_html/lib/pkp/lib/tinymce/jscripts/tiny_mce/plugins/jbimages/ci/application/controllers/editor.php
+  At line: 101
+  Stacktrace: 
+  Server info:
+   OS: Linux
+   PHP Version: 5.4.37
+   Apache Version: N/A
+   DB Driver: mysql
+   DB server version: 5.5.42-cll

@@ -1,0 +1,18 @@
+[07-Oct-2013 19:35:58] PHP Fatal error:  Class 'DAO' not found in /home/ijmein/public_html/lib/pkp/classes/tombstone/DataObjectTombstoneSettingsDAO.inc.php on line 16
+[07-Oct-2013 19:35:58] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/tombstone/DataObjectTombstone.inc.php on line 15
+[07-Oct-2013 19:35:58] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/tombstone/DataObjectTombstoneDAO.inc.php on line 16
+[07-Oct-2013 19:38:48] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/tombstone/DataObjectTombstoneDAO.inc.php on line 16
+[07-Oct-2013 19:38:48] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/tombstone/DataObjectTombstoneDAO.inc.php on line 16
+[07-Oct-2013 19:38:51] PHP Fatal error:  Class 'DAO' not found in /home/ijmein/public_html/lib/pkp/classes/tombstone/DataObjectTombstoneSettingsDAO.inc.php on line 16
+[07-Oct-2013 19:38:51] PHP Fatal error:  Class 'DAO' not found in /home/ijmein/public_html/lib/pkp/classes/tombstone/DataObjectTombstoneSettingsDAO.inc.php on line 16
+[07-Oct-2013 19:38:55] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/tombstone/DataObjectTombstone.inc.php on line 15
+[07-Oct-2013 19:38:56] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/tombstone/DataObjectTombstone.inc.php on line 15
+[21-Oct-2013 19:57:21] PHP Fatal error:  Class 'DAO' not found in /home/ijmein/public_html/lib/pkp/classes/tombstone/DataObjectTombstoneSettingsDAO.inc.php on line 16
+[21-Oct-2013 19:57:21] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/tombstone/DataObjectTombstoneDAO.inc.php on line 16
+[21-Oct-2013 19:57:21] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/tombstone/DataObjectTombstone.inc.php on line 15
+[21-Oct-2013 20:00:59] PHP Fatal error:  Class 'DAO' not found in /home/ijmein/public_html/lib/pkp/classes/tombstone/DataObjectTombstoneSettingsDAO.inc.php on line 16
+[21-Oct-2013 20:00:59] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/tombstone/DataObjectTombstoneDAO.inc.php on line 16
+[21-Oct-2013 20:00:59] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/tombstone/DataObjectTombstoneDAO.inc.php on line 16
+[21-Oct-2013 20:00:59] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/tombstone/DataObjectTombstone.inc.php on line 15
+[21-Oct-2013 20:00:59] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/tombstone/DataObjectTombstone.inc.php on line 15
+[21-Oct-2013 20:00:59] PHP Fatal error:  Class 'DAO' not found in /home/ijmein/public_html/lib/pkp/classes/tombstone/DataObjectTombstoneSettingsDAO.inc.php on line 16

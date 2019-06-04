@@ -1,0 +1,8 @@
+[07-Oct-2013 19:45:04] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/manager/form/PKPAnnouncementTypeForm.inc.php on line 17
+[07-Oct-2013 19:45:04] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/manager/form/PKPAnnouncementForm.inc.php on line 16
+[21-Oct-2013 20:05:50] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/manager/form/PKPAnnouncementTypeForm.inc.php on line 17
+[21-Oct-2013 20:05:50] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/manager/form/PKPAnnouncementForm.inc.php on line 16
+[21-Oct-2013 20:12:53] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/manager/form/PKPAnnouncementForm.inc.php on line 16
+[21-Oct-2013 20:12:53] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/manager/form/PKPAnnouncementForm.inc.php on line 16
+[21-Oct-2013 20:12:58] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/manager/form/PKPAnnouncementTypeForm.inc.php on line 17
+[21-Oct-2013 20:12:58] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/manager/form/PKPAnnouncementTypeForm.inc.php on line 17

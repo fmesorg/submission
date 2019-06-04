@@ -1,0 +1,6 @@
+[07-Oct-2013 19:34:00] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/plugins/metadata/dc11/Dc11MetadataPlugin.inc.php on line 20
+[07-Oct-2013 19:36:32] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/plugins/metadata/dc11/Dc11MetadataPlugin.inc.php on line 20
+[07-Oct-2013 19:36:32] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/plugins/metadata/dc11/Dc11MetadataPlugin.inc.php on line 20
+[21-Oct-2013 19:55:25] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/plugins/metadata/dc11/Dc11MetadataPlugin.inc.php on line 20
+[21-Oct-2013 19:58:46] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/plugins/metadata/dc11/Dc11MetadataPlugin.inc.php on line 20
+[21-Oct-2013 19:58:47] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/plugins/metadata/dc11/Dc11MetadataPlugin.inc.php on line 20

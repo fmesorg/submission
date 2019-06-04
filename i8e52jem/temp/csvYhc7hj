@@ -1,0 +1,4 @@
+label/_ref,hint/_ref,_ref
+jr:itext('/data/TITLE:label'),jr:itext('/data/TITLE:hint'),/data/TITLE
+jr:itext('/data/open_history:label'),,/data/open_history
+jr:itext('/data/prevent_death:label'),,/data/prevent_death

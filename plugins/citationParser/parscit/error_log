@@ -1,0 +1,6 @@
+[07-Oct-2013 19:34:22] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/plugins/citationParser/parscit/ParscitCitationParserPlugin.inc.php on line 20
+[07-Oct-2013 19:36:40] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/plugins/citationParser/parscit/ParscitCitationParserPlugin.inc.php on line 20
+[07-Oct-2013 19:36:40] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/plugins/citationParser/parscit/ParscitCitationParserPlugin.inc.php on line 20
+[21-Oct-2013 19:55:32] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/plugins/citationParser/parscit/ParscitCitationParserPlugin.inc.php on line 20
+[21-Oct-2013 19:58:49] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/plugins/citationParser/parscit/ParscitCitationParserPlugin.inc.php on line 20
+[21-Oct-2013 19:58:49] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/plugins/citationParser/parscit/ParscitCitationParserPlugin.inc.php on line 20

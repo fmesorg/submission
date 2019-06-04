@@ -1,0 +1,10 @@
+[07-Oct-2013 19:43:16] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/submission/reviewAssignment/PKPReviewAssignment.inc.php on line 37
+[07-Oct-2013 19:43:16] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/submission/reviewAssignment/PKPReviewAssignmentDAO.inc.php on line 17
+[07-Oct-2013 19:49:08] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/submission/reviewAssignment/PKPReviewAssignmentDAO.inc.php on line 17
+[07-Oct-2013 19:49:08] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/submission/reviewAssignment/PKPReviewAssignmentDAO.inc.php on line 17
+[07-Oct-2013 19:49:10] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/submission/reviewAssignment/PKPReviewAssignment.inc.php on line 37
+[07-Oct-2013 19:49:11] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/submission/reviewAssignment/PKPReviewAssignment.inc.php on line 37
+[21-Oct-2013 20:06:36] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/submission/reviewAssignment/PKPReviewAssignmentDAO.inc.php on line 17
+[21-Oct-2013 20:06:36] PHP Fatal error:  Class 'DataObject' not found in /home/ijmein/public_html/lib/pkp/classes/submission/reviewAssignment/PKPReviewAssignment.inc.php on line 37
+[21-Oct-2013 20:13:29] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/submission/reviewAssignment/PKPReviewAssignmentDAO.inc.php on line 17
+[21-Oct-2013 20:13:29] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/submission/reviewAssignment/PKPReviewAssignmentDAO.inc.php on line 17

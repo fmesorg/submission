@@ -1,0 +1,12 @@
+[07-Oct-2013 19:43:27] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/notification/form/NotificationMailingListForm.inc.php on line 19
+[07-Oct-2013 19:43:27] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/notification/form/PKPNotificationSettingsForm.inc.php on line 19
+[07-Oct-2013 19:49:31] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/notification/form/NotificationMailingListForm.inc.php on line 19
+[07-Oct-2013 19:49:31] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/notification/form/NotificationMailingListForm.inc.php on line 19
+[07-Oct-2013 19:49:31] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/notification/form/PKPNotificationSettingsForm.inc.php on line 19
+[07-Oct-2013 19:49:31] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/notification/form/PKPNotificationSettingsForm.inc.php on line 19
+[21-Oct-2013 20:05:50] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/notification/form/NotificationMailingListForm.inc.php on line 19
+[21-Oct-2013 20:05:50] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/notification/form/PKPNotificationSettingsForm.inc.php on line 19
+[21-Oct-2013 20:12:56] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/notification/form/NotificationMailingListForm.inc.php on line 19
+[21-Oct-2013 20:12:56] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/notification/form/NotificationMailingListForm.inc.php on line 19
+[21-Oct-2013 20:12:56] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/notification/form/PKPNotificationSettingsForm.inc.php on line 19
+[21-Oct-2013 20:12:56] PHP Fatal error:  Call to undefined function  import() in /home/ijmein/public_html/lib/pkp/classes/notification/form/PKPNotificationSettingsForm.inc.php on line 19
