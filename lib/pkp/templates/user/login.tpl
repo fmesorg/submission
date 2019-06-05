@@ -80,57 +80,57 @@
 
 
 
-{if ! $implicitAuth}
+{*{if ! $implicitAuth}*}
 
-	<table id="signinTable" class="data">
+{*	<table id="signinTable" class="data">*}
 
-	<tr>
+{*	<tr>*}
 
-		<td class="label"><label for="loginUsername">{translate key="user.username"}</label></td>
+{*		<td class="label"><label for="loginUsername">{translate key="user.username"}</label></td>*}
 
-		<td class="value"><input type="text" id="loginUsername" name="username" value="{$username|escape}" size="20" maxlength="32" class="textField" /></td>
+{*		<td class="value"><input type="text" id="loginUsername" name="username" value="{$username|escape}" size="20" maxlength="32" class="textField" /></td>*}
 
-	</tr>
+{*	</tr>*}
 
-	<tr>
+{*	<tr>*}
 
-		<td class="label"><label for="loginPassword">{translate key="user.password"}</label></td>
+{*		<td class="label"><label for="loginPassword">{translate key="user.password"}</label></td>*}
 
-		<td class="value"><input type="password" id="loginPassword" name="password" value="{$password|escape}" size="20" maxlength="32" class="textField" /></td>
+{*		<td class="value"><input type="password" id="loginPassword" name="password" value="{$password|escape}" size="20" maxlength="32" class="textField" /></td>*}
 
-	</tr>
+{*	</tr>*}
 
-	{if $showRemember}
+{*	{if $showRemember}*}
 
-	<tr valign="middle">
+{*	<tr valign="middle">*}
 
-		<td></td>
+{*		<td></td>*}
 
-		<td class="value"><input type="checkbox" id="loginRemember" name="remember" value="1"{if $remember} checked="checked"{/if} /> <label for="loginRemember">{translate key="user.login.rememberUsernameAndPassword"}</label><input style="float:right;" type="submit" value="{translate key="user.login"}" class="button" /></td>
+{*		<td class="value"><input type="checkbox" id="loginRemember" name="remember" value="1"{if $remember} checked="checked"{/if} /> <label for="loginRemember">{translate key="user.login.rememberUsernameAndPassword"}</label><input style="float:right;" type="submit" value="{translate key="user.login"}" class="button" /></td>*}
 
-	</tr>
+{*	</tr>*}
 
-	{/if}{* $showRemember *}
+{*	{/if}*}{* $showRemember *}
 
-	<tr>
-		<td colspan="2">
-			<hr style="margin: 9px 0 3px 0!important;">
-		</td>
-	</tr>
+{*	<tr>*}
+{*		<td colspan="2">*}
+{*			<hr style="margin: 9px 0 3px 0!important;">*}
+{*		</td>*}
+{*	</tr>*}
 
-	<tr>
+{*	<tr>*}
 
-		<td>{if !$hideRegisterLink} <a href="{url page="user" op=$registerOp}">{translate key=$registerLocaleKey}</a></td>
+{*		<td>{if !$hideRegisterLink} <a href="{url page="user" op=$registerOp}">{translate key=$registerLocaleKey}</a></td>*}
 
-		<td><a style="float:right;" href="{url page="login" op="lostPassword"}">{translate key="user.login.forgotPassword"}</a>{/if}</td>
+{*		<td><a style="float:right;" href="{url page="login" op="lostPassword"}">{translate key="user.login.forgotPassword"}</a>{/if}</td>*}
 
-	</tr>
+{*	</tr>*}
 
-	</table>
+{*	</table>*}
 
 
 
-{/if}{* !$implicitAuth *}
+{*{/if}*}{* !$implicitAuth *}
 
 
 

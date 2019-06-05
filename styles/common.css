@@ -1553,6 +1553,7 @@ br {
 }
 .i-header-logo {
     margin-left: -10px;
+    max-width: 30%;
 }
 .label {
     font-size: 13px !important;
